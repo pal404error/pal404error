@@ -2,7 +2,7 @@
 <h3 align="center">just another developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal404error&label=Profile%20views&color=0e75b6&style=flat" alt="pal404error" /> </p>
-<img src="https://s1.gifyu.com/images/e106ee093d744089a5ce56fd49675047.gif">
+<img src="https://tenor.com/bARU3.gif">
 
 - 🌱 I’m currently learning **NFT**
 
