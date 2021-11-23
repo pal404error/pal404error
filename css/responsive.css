@@ -1,0 +1,398 @@
+/*
+|----------------------------------------------------------------------------
+	AboutMe - Personal Portfolio Resume Template Main CSS
+	Author: MGScoder
+	Author URL: https://themeforest.net/user/mgscoder
+	Primary color: #04b962
+|----------------------------------------------------------------------------
+*/
+@media screen and (max-width: 1024px) {
+	.timeline > li > .timeline-panel{
+		width: 45%;
+	}
+}
+@media screen and (max-width: 991px) {
+	.menu-bg .main-menu .navbar-nav li a {
+		padding: 18px 8px;
+	}
+	.main-menu .navbar-nav li a {
+		padding: 30px 8px;
+	}
+	.banner-content h1 {
+		font-size: 42px;
+	}
+	.banner-content h3 {
+		font-size: 18px;
+	}
+	.intro-text {
+		margin: 0 10% 60px;
+	}
+	.about-box-style .experience-content {
+		padding: 20px 12px;
+	}	
+	.service-menu a i {
+		padding: 0 10px 0 0;
+	}
+	.footer h4.widget-title {
+		font-size: 22px;
+	}		
+	.comment-wrap {
+		padding: 30px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.navbar-collapse {	
+		background-color: #f2f2f2;
+		margin-top: 22px;
+		width:200px;
+		float:right;
+	}
+	.navbar-fixed-top .navbar-collapse {
+		max-height: auto;
+	}
+	.navbar-collapse ul.nav.navbar-nav {	
+		margin-bottom: 0;
+	}
+	.navbar-collapse ul li {	
+		border-bottom: 1px solid #c5c5c5;
+	}
+	.menu-bg .main-menu .navbar-nav li a {
+		color: #000;
+	}
+	.navbar-collapse ul.nav.navbar-nav li:hover a, .navbar-collapse ul.nav.navbar-nav li a:hover {
+		color: #fff;
+	}
+	.menu-bg .navbar-collapse {	
+		margin-top: 6px;
+	}
+	.navbar-nav {
+		margin-top: 0;
+	}
+	.nav.navbar-nav.navbar-right > li > a, .menu-bg .nav.navbar-nav.navbar-right > li > a {
+		padding-bottom: 7px;
+		padding-left: 15px;
+		padding-top: 10px;;
+	}
+	.navbar-toggle {
+		margin: 20px 0 0;
+		padding: 9px 0 9px 10px;
+	}
+	.menu-bg .navbar-toggle {
+		margin: 8px 0 0;
+		padding: 9px 0 9px 10px;
+	}
+	.banner-content {
+		margin-bottom: 30px;
+		text-align: center;
+	}
+		
+	.banner-content {
+		max-width: 100%;
+	}	
+	.banner-content h1 {
+		font-size: 48px;
+	}
+	.banner-content h3 {
+		font-size: 22px;
+	}
+	#home .quoteForm-holder {
+		margin-top: 30px;
+		position: static;
+		transform: translate(0px);
+	}
+	.quoteForm {		
+		margin: 0 auto;
+	}
+	.breadcrumb, #single-page-banner.page-title h2 {
+		text-align: center;
+	}
+	
+	#about .about-text .title-box {
+		margin: 60px 0 40px;
+	}
+	#about .profile-image {
+		margin: 0 auto 50px;
+	}	
+	.about-box-style .experience-content {
+		padding: 20px 15px;
+	}
+	
+	aside#pfolio-single-content {
+		margin-top: 30px;
+	}
+	#commentform .form-group .col-sm-6 {
+		margin: 0 0 30px;
+	}
+	#commentform .form-group .col-sm-6:last-child {
+		margin: 0;
+	}
+	/*timeline*/
+	.about-timeline-style .nav.nav-tabs, .about-box-style .nav.nav-tabs {
+		max-width: 100%;
+	}
+	#about .icon-holder .tab-content-title {
+		left: 0%;
+		margin-left: 90px;
+	}
+	#about .nav-tab-menu .nav-tabs > li {
+		width: 50%;
+	}
+	#about .icon-holder {
+		text-align: left;
+	}
+	#about .icon-holder i {
+		left: 0;
+		margin: 0 0 0 7.5px;
+	}
+	#about .icon-holder .sub-title {
+		left: 0;
+		margin-left: 90px;
+	}
+	ul.timeline:before {
+        left: 40px;
+    }
+    ul.timeline > li > .timeline-panel {
+        width: calc(100% - 90px);
+        width: -moz-calc(100% - 90px);
+        width: -webkit-calc(100% - 90px);
+    }
+    ul.timeline > li > .timeline-badge {
+        left: 15px;
+        margin-left: 0;
+    }
+    ul.timeline > li > .timeline-panel {
+        float: right;
+		padding-top: 55px;
+    }
+	ul.timeline > li > .timeline-panel:before {
+		border-left-width: 0;
+		border-right-width: 15px;
+		left: -15px;
+		right: auto;
+	}
+	ul.timeline > li > .timeline-panel:after {
+		border-left-width: 0;
+		border-right-width: 14px;
+		left: -14px;
+		right: auto;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		left: 50%;
+		font-weight: 400;
+		margin: 10px 0 20px 80px;
+		text-align: left;
+		top: 0;
+	}
+	.timeline .experience-content {
+		margin: 10px 0 0;
+		text-align: left;
+	}
+	#service-single-content aside {
+		margin-top: 60px;
+	}
+	.service-menu a i {
+		padding: 0 10px;
+	}	
+	.testimonial-item {
+		margin: 0 5%;
+	}
+	#contactForm .sub-text {
+		bottom: 70px;
+	}
+	.parallax, .home-top-banner, .home-top-banner-2 {
+		background-attachment: scroll;
+	}
+	
+	.footer-top .column {
+		margin-bottom: 90px;
+	}
+	.footer-top .column:last-child {
+		margin-bottom: 50px;
+	}
+	.footer h4.widget-title {
+		font-size: 24px;
+	}
+}
+@media screen and (max-width: 667px) {
+	.progressbar-wrap .col-xs-3 {
+		width: 50%;
+	}
+	.service-wrap {
+		min-height: 340px;
+	}
+	.pricing-plan:first-child {
+		margin: 0 0 30px;
+	}
+	.pricing-plan ,.pricing-plan.active, .pricing-table .pricing-plan:last-child , .pricing-table .pricing-plan:first-child{
+		border-radius: 8px;
+		width: 100%;
+	}
+	.testimonial-item {
+		margin: 0;
+	}
+	.post-title h1 {
+		font-size: 32px;
+	}
+}
+@media screen and (max-width: 568px) {
+	.service .col-xs-6,
+	.success-story .col-sm-3,
+	.success-story .col-xs-6{
+		width: 100%
+	}
+}	
+@media screen and (max-width: 480px) {		
+	.banner-content h1 {
+		font-size: 42px;
+	}
+	.banner-content h3 {
+		font-size: 20px;
+	}
+	.title-wrap .section-title {
+		font-size: 34px;
+	}
+	.post-title h1 {
+		font-size: 24px;
+	}
+	.pricing-plan-wrap h3 {
+		font-size: 30px;
+	}
+	
+	.pfolio-list .col-sm-3,
+	.pfolio-list .col-sm-4,
+	.pfolio-list .col-xs-6 {
+		width: 50%
+	}
+	.post-navigation .col-xs-6 {
+		width: 50%;
+	}
+	.about-wrap {
+		min-height: auto;
+	}
+	#related-blog .col-xs-4 {
+		width: 100%;
+	}
+	.banner-content h1.type-animate a.typewrite{
+		font-size: 40px;
+	}
+}
+@media screen and (max-width: 420px) {
+	.title-wrap .section-title {
+		font-size: 30px;
+	}
+	#home .owl-carousel .slider-content h2.banner-title-text {
+		font-size: 36px;
+	}
+	#about .nav-tab-menu .nav-tabs > li {
+		width: 100%;
+	}
+	.pricing-plan-wrap h3 {
+		font-size: 26px;
+	}
+	.our-team  .col-sm-3,
+	.our-team  .col-xs-6 {
+		width: 100%
+	}
+}
+@media screen and (max-width: 375px) {
+	.post-navigation a {
+		font-size: 16px;
+	}
+	.sub-title {
+		font-size: 26px;
+	}
+}
+@media screen and (max-width: 360px) {
+	.title-wrap .section-title {
+		font-size: 26px;
+	}
+	.pricing-plan-wrap h3 {
+		font-size: 22px;
+	}
+	.isotopeContainer .col-sm-3,
+	.isotopeContainer .col-sm-4,
+	.isotopeContainer .col-xs-6 {
+		width: 100%
+	}
+	
+	#about .col-sm-12 .row .col-sm-5 .profile-image{
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.banner-content h1.type-animate a.typewrite{
+		font-size: 36px;
+	}
+	#home .owl-carousel .slider-content h2.banner-title-text {
+		font-size: 32px;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		margin: 10px 0 20px 70px;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		width: 155px;
+	}
+	.timeline > li > .timeline-panel {
+		padding: 20px;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		font-size: 16px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.header-nav {
+		height: 60px;
+	}
+	.navbar-brand .logo {
+		height: 60px;
+	}
+	#single-page-banner {
+		margin-top: 60px;
+	}
+	.navbar-toggle {
+		margin: 14px 0 0;
+	}
+	.sub-title {
+		font-size: 24px;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		width: 135px;
+	}
+	.timeline li p.date, .timeline li p.date-inverted {
+		font-size: 14px;
+	}
+	.banner-content h1.type-animate a.typewrite{
+		font-size: 32px;
+	}
+	#home .owl-carousel .slider-content h2.banner-title-text {
+		font-size: 30px;
+	}
+	
+	.progressbar-wrap .col-xs-3, 
+	.progressbar-wrap .col-xs-6 {
+		width: 100%
+	}
+}
+
+@media screen and (max-height: 700px) and (max-width: 991px) {
+	.home-top-banner, .home-top-banner-2 {
+		padding: 30px 0;
+	}
+	.home-slider.home-top-banner {
+		padding: 0;
+	}
+}
+@media screen and (max-height: 420px) {
+	.navbar-fixed-top .navbar-collapse {
+		max-height: 270px;
+	}
+}
+@media screen and (max-height: 360px) {
+	.navbar-fixed-top .navbar-collapse {
+		max-height: 240px;
+	}
+}
+@media screen and (max-height: 320px) {
+	.navbar-fixed-top .navbar-collapse {
+		max-height: 200px;
+	}
+}
