@@ -1,0 +1,87 @@
+/*
+|----------------------------------------------------------------------------
+	AboutMe - Personal Portfolio Resume Template Main CSS
+	Author: MGScoder
+	Author URL: https://themeforest.net/user/mgscoder
+|----------------------------------------------------------------------------
+*/
+
+/*
+|----------------------------------------------------------------------------
+	parallax
+|----------------------------------------------------------------------------
+*/
+.parallax::before {
+    background-color: rgba(0, 0, 0, 0.8);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.parallax {
+	background-attachment: fixed;
+	background-color: rgba(0, 0, 0, 0.8);
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position: relative;
+	color: #fff;
+}
+/*
+|----------------------------------------------------------------------------
+	SERVICE
+|----------------------------------------------------------------------------
+*/
+#service.parallax {
+    background-image: url("../images/background/bg-1.jpg");
+}
+
+/*
+|----------------------------------------------------------------------------
+	PORTFOLIO
+|----------------------------------------------------------------------------
+*/
+#portfolio.parallax {
+    background-image: url("../images/background/bg-2.jpg");
+}
+
+/*
+|----------------------------------------------------------------------------
+	QUOTE
+|----------------------------------------------------------------------------
+*/
+#quotes-section {
+    background-image: url("../images/background/bg-3.jpg");
+}
+#quotes-section::before {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/*
+|----------------------------------------------------------------------------
+	BLOG
+|----------------------------------------------------------------------------
+*/
+#blog.parallax {
+    background-image: url("../images/background/bg-3.jpg");
+}
+
+/*
+|----------------------------------------------------------------------------
+	TESTIMONIAL
+|----------------------------------------------------------------------------
+*/
+#testimonials.parallax {
+    background-image: url("../images/background/bg-6.jpg");
+}
+
+/*
+|----------------------------------------------------------------------------
+	SUCCESS STORY
+|----------------------------------------------------------------------------
+*/
+#success-story.parallax {
+    background-image: url("../images/background/bg-5.jpg");
+}
