@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pal</h1>
 <h3 align="center">just another developer</h3>
+<h3 align="center">Portfolio at http://pal404error.tk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal404error&label=Profile%20views&color=0e75b6&style=flat" alt="pal404error" /> </p>
 <img src="https://c.tenor.com/cHSkjU_sqNcAAAAi/siiii.gif">
@@ -10,6 +11,9 @@
 
 - ⚡ Fun fact **everyone says they love to code, well I don't...**
 
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b762fcc-993b-4c8b-94b1-6a3e39d3407a/deploy-status)](https://app.netlify.com/sites/the-pal/deploys)
 <p align="left">
 </p>
 
