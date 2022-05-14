@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pal</h1>
 <h3 align="center">just another developer</h3>
 <h3 align="center">Portfolio at http://pal404error.tk</h3>
-
+<h3 align="center">Blog at https://pal404blog.github.io/</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal404error&label=Profile%20views&color=0e75b6&style=flat" alt="pal404error" /> </p>
 <img src="https://c.tenor.com/cHSkjU_sqNcAAAAi/siiii.gif">
 
