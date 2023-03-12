@@ -1,0 +1,17 @@
+name: Latest YouTube Videos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "LINKEDIN"
+          feed_list: "https://www.linkedin.com/in/pal404error/detail/recent-activity/"
