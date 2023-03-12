@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "LINKEDIN"
-          feed_list: "https://www.linkedin.com/in/pal404error/detail/recent-activity/"
+          feed_list: "https://www.linkedin.com/in/pal404error/"
