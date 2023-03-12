@@ -17,17 +17,17 @@
 <p align="left">
 </p>
 
-### 📺 Recent LinkedIn activity 
+### 🎵  MY TOP SPOTIFY SONGS 
 
-<!-- LINKEDIN:START -->
+<!-- SPOTIFY:START -->
 - [Vengeance](https://open.spotify.com/track/3yMi557LRyVQAJU9hKCD7M)
 - [Walk Away](https://open.spotify.com/track/6mhMFztI38c0CZr8CEnPrD)
 - [Heat Waves - Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1)
 - [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3)
 - [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx)
-<!-- LINKEDIN:END -->
+<!-- SPOTIFY:END -->
 
-### 📺 Recent Blog posts
+### 📝 Recent Blog posts
 
 <!-- BLOG:START -->
 <!-- BLOG:END -->
