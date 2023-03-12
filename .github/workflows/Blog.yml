@@ -1,1 +1,18 @@
-http://fetchrss.com/rss/640d45cb04306e06ea0299b3640d496f2e201d7bfc7d6992.xml
+name: blog
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "http://fetchrss.com/rss/640d45cb04306e06ea0299b3640d496f2e201d7bfc7d6992.xml"
+
