@@ -30,11 +30,11 @@
 ### 📝 Recent Blog posts
 
 <!-- BLOG:START -->
+- [How to be organized in your 20&#39;s](https://pal404blog.github.io/how-to-be-organized)
 - [Philosophy- It&#39;s good to have your own](https://pal404blog.github.io/create-philosophy)
 - [How to hate crypto and still make money](https://pal404blog.github.io/hate-crypto-copy)
 - [Web5.0 already ?!?](https://pal404blog.github.io/web5.0)
 - [Power of music while coding](https://pal404blog.github.io/coding-music)
-- [Are we in the middle of a Crypto bubble?](https://pal404blog.github.io/crypto-bubble)
 <!-- BLOG:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
