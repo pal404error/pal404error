@@ -20,11 +20,11 @@
 ### 🎵  MY TOP SPOTIFY SONGS 
 
 <!-- SPOTIFY:START -->
-- [Vengeance](https://open.spotify.com/track/3yMi557LRyVQAJU9hKCD7M)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
-- [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx)
-- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
-- [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR)
+- [What A Time &lpar;feat. Niall Horan&rpar;](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT)
+- [Unholy &lpar;feat. Kim Petras&rpar;](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG)
+- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
+- [Heat Waves - Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1)
+- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
 <!-- SPOTIFY:END -->
 
 ### 📝 Recent Blog posts
