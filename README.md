@@ -46,4 +46,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pal404error&theme=neon)](https://git.io/streak-stats)
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- START gadpp -->
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
