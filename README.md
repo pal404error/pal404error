@@ -20,11 +20,11 @@
 ### 🎵  MY TOP SPOTIFY SONGS 
 
 <!-- SPOTIFY:START -->
-- [What A Time &lpar;feat. Niall Horan&rpar;](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT)
-- [Unholy &lpar;feat. Kim Petras&rpar;](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG)
-- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
-- [Heat Waves - Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1)
-- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
+- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
+- [I Ain&#39;t Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR)
+- [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
+- [Hurtless](https://open.spotify.com/track/7gcKyKP2O2RO9YwtPDgDSP)
 <!-- SPOTIFY:END -->
 
 ### 📝 Recent Blog posts
