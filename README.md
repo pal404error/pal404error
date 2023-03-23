@@ -12,11 +12,11 @@
 ### 🎵  MY TOP SPOTIFY SONGS 
 
 <!-- SPOTIFY:START -->
-- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
-- [I Ain&#39;t Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
-- [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR)
-- [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
-- [Hurtless](https://open.spotify.com/track/7gcKyKP2O2RO9YwtPDgDSP)
+- [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi)
+- [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR)
+- [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8)
+- [Die A Little](https://open.spotify.com/track/34QLRZoPtOh7B5kcklyYAJ)
+- [Until I Found You &lpar;with Em Beihold&rpar; - Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
 <!-- SPOTIFY:END -->
 
 ### 📝 Recent Blog posts
