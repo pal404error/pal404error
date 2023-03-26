@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi)
-- [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR)
+- [I Ain&#39;t Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
 - [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8)
-- [Die A Little](https://open.spotify.com/track/34QLRZoPtOh7B5kcklyYAJ)
-- [Until I Found You &lpar;with Em Beihold&rpar; - Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN)
 <!-- SPOTIFY:END -->
 </td>
     <td>
