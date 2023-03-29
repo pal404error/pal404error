@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi)
-- [I Ain&#39;t Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB)
+- [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
+- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
 - [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 - [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
-- [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8)
 <!-- SPOTIFY:END -->
 </td>
     <td>
