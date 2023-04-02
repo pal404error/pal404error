@@ -15,10 +15,10 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi)
-- [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
-- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
-- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx)
+- [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV)
+- [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a)
 - [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
 <!-- SPOTIFY:END -->
 </td>
