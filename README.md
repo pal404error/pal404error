@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx)
-- [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV)
+- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
+- [Under the Influence X I Was Never There](https://open.spotify.com/track/06CwcguqgGRGCWvv9DnLJb)
+- [Intentions &lpar;feat. Quavo&rpar;](https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV)
+- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
 - [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a)
-- [sweater weather - slowed + reverb](https://open.spotify.com/track/2SnIt4OHXaqk0VW7sGDG2o)
 <!-- SPOTIFY:END -->
 </td>
     <td>
