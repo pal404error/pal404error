@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [Under the Influence X I Was Never There](https://open.spotify.com/track/06CwcguqgGRGCWvv9DnLJb)
-- [Intentions &lpar;feat. Quavo&rpar;](https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV)
+- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
+- [Heat Waves - Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1)
+- [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx)
+- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
 - [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
-- [Demons](https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a)
 <!-- SPOTIFY:END -->
 </td>
     <td>
