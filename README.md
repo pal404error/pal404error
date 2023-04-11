@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
-- [Heat Waves - Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1)
-- [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx)
-- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
-- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
+- [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx)
+- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
+- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
+- [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
+- [Bad Dream](https://open.spotify.com/track/4vDGc8mD9kHbC2Yy6pF6SE)
 <!-- SPOTIFY:END -->
 </td>
     <td>
