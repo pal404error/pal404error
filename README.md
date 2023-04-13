@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
-- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
-- [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
-- [Bad Dream](https://open.spotify.com/track/4vDGc8mD9kHbC2Yy6pF6SE)
+- [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
+- [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
+- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
+- [The Humma Song](https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd)
+- [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx)
 <!-- SPOTIFY:END -->
 </td>
     <td>
