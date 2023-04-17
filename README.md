@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
-- [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
-- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
-- [The Humma Song](https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd)
-- [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx)
+- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
+- [Mine All Day](https://open.spotify.com/track/79bj6j7yTkU13sFA1yNjzV)
+- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
+- [For Aisha &lpar;Featured in &quot;The Sky Is Pink&quot;&rpar;](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB)
 <!-- SPOTIFY:END -->
 </td>
     <td>
