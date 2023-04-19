@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb)
-- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
-- [Mine All Day](https://open.spotify.com/track/79bj6j7yTkU13sFA1yNjzV)
-- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
+- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
+- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
 - [For Aisha &lpar;Featured in &quot;The Sky Is Pink&quot;&rpar;](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB)
+- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
+- [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
 <!-- SPOTIFY:END -->
 </td>
     <td>
