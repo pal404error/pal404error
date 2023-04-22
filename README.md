@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
-- [For Aisha &lpar;Featured in &quot;The Sky Is Pink&quot;&rpar;](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB)
-- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
-- [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
+- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
+- [Mine All Day](https://open.spotify.com/track/79bj6j7yTkU13sFA1yNjzV)
+- [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR)
+- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
 <!-- SPOTIFY:END -->
 </td>
     <td>
