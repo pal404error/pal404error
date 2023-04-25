@@ -16,9 +16,9 @@
 
 <!-- SPOTIFY:START -->
 - [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
-- [Mine All Day](https://open.spotify.com/track/79bj6j7yTkU13sFA1yNjzV)
-- [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR)
+- [love nwantiti &lpar;feat. Dj Yo! &amp; AX&#39;EL&rpar; - Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j)
 - [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
 <!-- SPOTIFY:END -->
 </td>
