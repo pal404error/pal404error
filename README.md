@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [love nwantiti &lpar;feat. Dj Yo! &amp; AX&#39;EL&rpar; - Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
 - [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j)
 - [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
+- [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
 <!-- SPOTIFY:END -->
 </td>
     <td>
