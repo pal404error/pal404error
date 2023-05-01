@@ -26,11 +26,11 @@
       <h2> 📝 Recent Blog posts </h2>
 
 <!-- BLOG:START -->
+- [Why ChatGPT is dumber now ?](https://pal404blog.github.io/Why-ChatGPT-is-dumber-now)
 - [GPT-4 and Prompt AI in 2023](https://pal404blog.github.io/GPT-4-and-Prompt-AI-in-2023)
 - [How to be organized in your 20&#39;s](https://pal404blog.github.io/how-to-be-organized)
 - [Philosophy- It&#39;s good to have your own](https://pal404blog.github.io/create-philosophy)
 - [How to hate crypto and still make money](https://pal404blog.github.io/hate-crypto-copy)
-- [Web5.0 already ?!?](https://pal404blog.github.io/web5.0)
 <!-- BLOG:END --></td>
   </tr>
 </thead>
