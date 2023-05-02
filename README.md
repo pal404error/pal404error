@@ -16,7 +16,7 @@
 
 <!-- SPOTIFY:START -->
 - [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
+- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
 - [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j)
 - [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
 - [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
