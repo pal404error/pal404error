@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
+- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
 - [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j)
-- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
-- [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
+- [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG)
 <!-- SPOTIFY:END -->
 </td>
     <td>
