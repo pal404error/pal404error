@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
-- [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j)
-- [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [love nwantiti &lpar;feat. Dj Yo! &amp; AX&#39;EL&rpar; - Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU)
+- [Falling In Love](https://open.spotify.com/track/4qAEFnCVCqZsIcaOKQwMUj)
+- [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly)
 <!-- SPOTIFY:END -->
 </td>
     <td>
