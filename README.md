@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb)
-- [For Aisha &lpar;Featured in &quot;The Sky Is Pink&quot;&rpar;](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB)
-- [Living Life, In The Night](https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU)
+- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
+- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
+- [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf)
+- [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
 <!-- SPOTIFY:END -->
 </td>
     <td>
