@@ -17,9 +17,9 @@
 <!-- SPOTIFY:START -->
 - [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz)
 - [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
-- [he&#39;s not your boyfriend, he&#39;s your boy friend](https://open.spotify.com/track/6ID9Av5ISfFescfxuCAeUg)
-- [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [living life in the night - slowed + reverb](https://open.spotify.com/track/7pcDzanWWetQrf13E9PmKE)
+- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
+- [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk)
 <!-- SPOTIFY:END -->
 </td>
     <td>
