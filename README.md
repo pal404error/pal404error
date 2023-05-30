@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz)
-- [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
-- [living life in the night - slowed + reverb](https://open.spotify.com/track/7pcDzanWWetQrf13E9PmKE)
-- [She Wonders Why](https://open.spotify.com/track/5PfrevbzpZzMtv4bVld9xq)
-- [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk)
+- [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
+- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo)
+- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
 <!-- SPOTIFY:END -->
 </td>
     <td>
