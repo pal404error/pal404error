@@ -16,10 +16,10 @@
 
 <!-- SPOTIFY:START -->
 - [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
-- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
-- [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
+- [Start Again &lpar;feat. Logic&rpar;](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz)
+- [Tick Tock](https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi)
+- [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
+- [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
