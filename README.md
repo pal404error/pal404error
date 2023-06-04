@@ -17,9 +17,9 @@
 <!-- SPOTIFY:START -->
 - [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
 - [Start Again &lpar;feat. Logic&rpar;](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz)
-- [Tick Tock](https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi)
-- [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny)
-- [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
+- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
+- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
+- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
