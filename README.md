@@ -15,11 +15,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
-- [Start Again &lpar;feat. Logic&rpar;](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz)
-- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
-- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
-- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
+- [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
+- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
+- [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [After Dark x Sweater Weather - mikeeysmind remix](https://open.spotify.com/track/62WGBwdrx13qdl15yrOzPM)
 <!-- SPOTIFY:END -->
 </td>
     <td>
