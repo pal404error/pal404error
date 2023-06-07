@@ -3,11 +3,33 @@
 <h3 align="center">Blog at https://pal404blog.github.io/</h3>
 <img src="https://komarev.com/ghpvc/?username=pal404error&label=Profile%20views&color=0e75b6&style=flat" alt="pal404error" /> </p>
 
-- 🌱 I’m currently learning **NFT**
+```
 
-- 📫 How to reach me **Through nothing, imma not active on Socials**
 
-- ⚡ Fun fact **everyone says they love to code, well I don't...**
+                   -`                    pal404error@archlinux 
+                  .o+`                   ------------- 
+                 `ooo/                   OS: I use Arch BTW
+                `+oooo:                  
+               `+oooooo:                 Socials: None, LOL
+               -+oooooo+:                
+             `/:-:++oooo+:               Repositories : 52
+            `/++++/+++++++:               
+           `/++++++++++++++:             Resolution: 3456 x 2234 
+          `/+++ooooooooooooo/`            
+         ./ooosssso++osssssso+`          Platform: Github  
+        .oossssso-````/ossssss+`          
+       -osssssso.      :ssssssso.        Uptime: 69 days, 420 mins  
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-       Shell: zsh 5.9
+   `/ossssso+/:-        -:/+osssso+-      
+  `+sso+:-`                 `.-/+oso:    Learning: DevOps
+ `++:.                           `-/+/   
+ .`                                 `/   Fun fact: everyone says they love to code, well I don't...
+                                                                 
+                                                                 
+```
+
+
 <table width="auto" >
 <thead>
   <tr>
