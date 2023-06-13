@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
-- [funk remix](https://open.spotify.com/track/0vE6UZLNWXuRGG8FWSnQiV)
-- [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
-- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
-- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
+- [Kesariya &lpar;From &quot;Brahmastra&quot;&rpar;](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
+- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
 <!-- SPOTIFY:END -->
 </td>
     <td>
