@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
-- [Kesariya &lpar;From &quot;Brahmastra&quot;&rpar;](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
-- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
+- [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
+- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
 - [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
+- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
+- [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
 <!-- SPOTIFY:END -->
 </td>
     <td>
