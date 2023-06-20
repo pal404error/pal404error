@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
-- [im used to it](https://open.spotify.com/track/7lfoJaJRuVB43jLr4Ydi00)
-- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
-- [Strawberries &amp; Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ)
-- [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
+- [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz)
+- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [Ajab Si &lpar;From &quot;Om Shanti Om&quot;&rpar;](https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV)
+- [Enna Sona](https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO)
+- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
 <!-- SPOTIFY:END -->
 </td>
     <td>
