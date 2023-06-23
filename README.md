@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz)
-- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-- [Ajab Si &lpar;From &quot;Om Shanti Om&quot;&rpar;](https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV)
-- [Enna Sona](https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO)
-- [Chill Calling](https://open.spotify.com/track/5ufI5Y3qHuOkt9xXQrXktF)
+- [Alone](https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf)
+- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
+- [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP)
+- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
 <!-- SPOTIFY:END -->
 </td>
     <td>
