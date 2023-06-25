@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz)
+- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
+- [Start Again &lpar;feat. Logic&rpar;](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz)
+- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
 - [Alone](https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf)
-- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
-- [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP)
-- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
+- [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4)
 <!-- SPOTIFY:END -->
 </td>
     <td>
