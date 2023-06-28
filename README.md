@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
-- [Start Again &lpar;feat. Logic&rpar;](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz)
-- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
-- [Alone](https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf)
-- [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4)
+- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
+- [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU)
+- [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD)
+- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
+- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
 <!-- SPOTIFY:END -->
 </td>
     <td>
