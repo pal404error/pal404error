@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
-- [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU)
-- [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD)
-- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4)
+- [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
+- [clash of the titans](https://open.spotify.com/track/6hzTeCA93yeY8WZE0kW3ui)
 <!-- SPOTIFY:END -->
 </td>
     <td>
