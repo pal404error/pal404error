@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4)
-- [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-- [clash of the titans](https://open.spotify.com/track/6hzTeCA93yeY8WZE0kW3ui)
+- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
+- [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU)
+- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
+- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
+- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
 <!-- SPOTIFY:END -->
 </td>
     <td>
