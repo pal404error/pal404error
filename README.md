@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
-- [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU)
-- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV)
+- [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO)
 - [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
-- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
+- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
 <!-- SPOTIFY:END -->
 </td>
     <td>
