@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV)
-- [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO)
+- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
+- [Young Dumb &amp; Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY)
 - [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
 - [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
+- [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
