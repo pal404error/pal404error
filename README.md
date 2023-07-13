@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
-- [Young Dumb &amp; Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY)
+- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
+- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
+- [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT)
+- [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO)
 - [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
-- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
-- [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
