@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v)
-- [Jalebi Baby &lpar;Tesher x Jason Derulo&rpar;](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8)
+- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
+- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
+- [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
 - [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT)
-- [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO)
-- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
 <!-- SPOTIFY:END -->
 </td>
     <td>
