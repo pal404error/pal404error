@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
-- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
-- [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD)
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT)
+- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
+- [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy)
+- [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm)
+- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
 <!-- SPOTIFY:END -->
 </td>
     <td>
