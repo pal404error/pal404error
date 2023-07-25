@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
-- [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy)
+- [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)
+- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 - [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm)
 - [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
+- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
 <!-- SPOTIFY:END -->
 </td>
     <td>
