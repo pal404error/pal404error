@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)
-- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm)
+- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
+- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
 - [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
+- [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
+- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
 <!-- SPOTIFY:END -->
 </td>
     <td>
