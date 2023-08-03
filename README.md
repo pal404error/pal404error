@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Middle](https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK)
-- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
-- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
+- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
 - [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
-- [Tere Pyaar Mein](https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
 <!-- SPOTIFY:END -->
 </td>
     <td>
