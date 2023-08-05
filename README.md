@@ -37,9 +37,9 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
+- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
 - [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
-- [Taki Taki &lpar;feat. Selena Gomez, Ozuna &amp; Cardi B&rpar;](https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY)
+- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
 - [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
 - [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
 <!-- SPOTIFY:END -->
