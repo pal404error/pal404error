@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO)
-- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
-- [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv)
+- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
+- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
 - [Ari Ari](https://open.spotify.com/track/3edqjLVQrRPLvt9FAYUAsT)
 - [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
 <!-- SPOTIFY:END -->
 </td>
     <td>
