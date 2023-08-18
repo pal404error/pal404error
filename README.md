@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO)
+- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
 - [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
 - [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd)
 - [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
-- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
+- [Bhool Bhulaiyaa 2 Title Track](https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8)
 <!-- SPOTIFY:END -->
 </td>
     <td>
