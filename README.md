@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
-- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
-- [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd)
-- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
 - [Bhool Bhulaiyaa 2 Title Track](https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8)
+- [Godzilla &lpar;feat. Juice WRLD&rpar;](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ)
+- [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB)
 <!-- SPOTIFY:END -->
 </td>
     <td>
