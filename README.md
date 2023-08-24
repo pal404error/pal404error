@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
-- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
-- [Bhool Bhulaiyaa 2 Title Track](https://open.spotify.com/track/2FZDNh6tm9mkZ9vTphuAh8)
+- [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO)
+- [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy)
+- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
 - [Godzilla &lpar;feat. Juice WRLD&rpar;](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ)
-- [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB)
+- [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
 <!-- SPOTIFY:END -->
 </td>
     <td>
