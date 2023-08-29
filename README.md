@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
-- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
-- [Young Dumb &amp; Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY)
-- [Hey Girl](https://open.spotify.com/track/4rypm0OAHbU1IXLA8atiGE)
+- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
 - [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV)
+- [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
 <!-- SPOTIFY:END -->
 </td>
     <td>
