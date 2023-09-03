@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Past Lives](https://open.spotify.com/track/3YaRY9vbpnggTArCdGVXnS)
-- [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV)
+- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
+- [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc)
 - [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
+- [Past Lives - Remix](https://open.spotify.com/track/29KQGETAxrTrrb7NFrwegn)
 <!-- SPOTIFY:END -->
 </td>
     <td>
