@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
-- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
+- [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy)
+- [Past Lives - Remix](https://open.spotify.com/track/29KQGETAxrTrrb7NFrwegn)
+- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
+- [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
 <!-- SPOTIFY:END -->
 </td>
     <td>
