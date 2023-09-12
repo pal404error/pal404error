@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
-- [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy)
-- [Past Lives - Remix](https://open.spotify.com/track/29KQGETAxrTrrb7NFrwegn)
-- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
-- [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy)
+- [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
+- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
+- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
+- [ill come back to you &lpar;feat. Sarcastic Sounds &amp; Rxseboy&rpar;](https://open.spotify.com/track/1DoECePnMuLtpLQSCZqwtK)
+- [Dead Eyes](https://open.spotify.com/track/7BdlyzVvOqmwPH9dYtZfsx)
 <!-- SPOTIFY:END -->
 </td>
     <td>
