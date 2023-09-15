@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
-- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
-- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
-- [ill come back to you &lpar;feat. Sarcastic Sounds &amp; Rxseboy&rpar;](https://open.spotify.com/track/1DoECePnMuLtpLQSCZqwtK)
-- [Dead Eyes](https://open.spotify.com/track/7BdlyzVvOqmwPH9dYtZfsx)
+- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [Past Lives - Remix](https://open.spotify.com/track/29KQGETAxrTrrb7NFrwegn)
+- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
+- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
 <!-- SPOTIFY:END -->
 </td>
     <td>
