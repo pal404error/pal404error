@@ -39,9 +39,9 @@
 <!-- SPOTIFY:START -->
 - [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
 - [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)
-- [Past Lives - Remix](https://open.spotify.com/track/29KQGETAxrTrrb7NFrwegn)
-- [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96)
-- [Sweater Weather &lpar;Acoustic&rpar;](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO)
+- [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy)
+- [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN)
+- [death bed &lpar;coffee for your head&rpar;](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx)
 <!-- SPOTIFY:END -->
 </td>
     <td>
