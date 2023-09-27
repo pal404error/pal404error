@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO)
-- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
-- [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
-- [Kid Goku](https://open.spotify.com/track/1uuI4ovQALuaq9srVZyTDy)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [toy block](https://open.spotify.com/track/6WU2EbcrdoUDlNF7AmENwQ)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi)
 <!-- SPOTIFY:END -->
 </td>
     <td>
