@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
-- [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)
-- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
+- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
 - [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
 <!-- SPOTIFY:END -->
 </td>
     <td>
