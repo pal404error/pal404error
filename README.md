@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [Another Dimension](https://open.spotify.com/track/0qiYnY0y5P9gqq6THGzhaI)
 - [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
 - [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
-- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
 <!-- SPOTIFY:END -->
 </td>
     <td>
