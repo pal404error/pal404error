@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Another Dimension](https://open.spotify.com/track/0qiYnY0y5P9gqq6THGzhaI)
-- [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v)
+- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
+- [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR)
+- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
 - [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
-- [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
-- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
 <!-- SPOTIFY:END -->
 </td>
     <td>
