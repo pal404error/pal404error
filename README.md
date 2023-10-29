@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
-- [death bed &lpar;coffee for your head&rpar;](https://open.spotify.com/track/5TEH4r5OBFcKZJBjF4qOxL)
+- [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy)
+- [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB)
+- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
 - [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
 <!-- SPOTIFY:END -->
 </td>
     <td>
