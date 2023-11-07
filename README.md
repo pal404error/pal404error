@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
+- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
+- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
+- [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
 - [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
-- [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)
-- [Do You Feel It?](https://open.spotify.com/track/3lOok0REf4j3790abX26PR)
-- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
 <!-- SPOTIFY:END -->
 </td>
     <td>
