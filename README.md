@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
-- [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ)
-- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
-- [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ)
+- [Nonviolent Communication &lpar;Metro Boomin &amp; James Blake, A$AP Rocky, 21 Savage&rpar;](https://open.spotify.com/track/3xMnPIvsaWwzHzqqzaihEX)
+- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
+- [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
 <!-- SPOTIFY:END -->
 </td>
     <td>
