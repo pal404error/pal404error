@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Nonviolent Communication &lpar;Metro Boomin &amp; James Blake, A$AP Rocky, 21 Savage&rpar;](https://open.spotify.com/track/3xMnPIvsaWwzHzqqzaihEX)
-- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
-- [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
+- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
+- [Satisfya](https://open.spotify.com/track/6HGoVbCUr63SgU3TjxEVj6)
+- [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo)
+- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
+- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
 <!-- SPOTIFY:END -->
 </td>
     <td>
