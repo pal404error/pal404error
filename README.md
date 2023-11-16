@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [Satisfya](https://open.spotify.com/track/6HGoVbCUr63SgU3TjxEVj6)
-- [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
 - [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
-- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
+- [death bed &lpar;coffee for your head&rpar;](https://open.spotify.com/track/5TEH4r5OBFcKZJBjF4qOxL)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
 <!-- SPOTIFY:END -->
 </td>
     <td>
