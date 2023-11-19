@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
+- [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
+- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
+- [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
 - [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
-- [death bed &lpar;coffee for your head&rpar;](https://open.spotify.com/track/5TEH4r5OBFcKZJBjF4qOxL)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
 <!-- SPOTIFY:END -->
 </td>
     <td>
