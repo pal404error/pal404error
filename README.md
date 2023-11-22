@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
-- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
+- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ)
 - [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
-- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
-- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
 <!-- SPOTIFY:END -->
 </td>
     <td>
