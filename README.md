@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ)
+- [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
+- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
+- [I Should&#39;ve Told You](https://open.spotify.com/track/5Q9KfZHV6BZZLQzhKpfPpq)
 - [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
+- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
 <!-- SPOTIFY:END -->
 </td>
     <td>
