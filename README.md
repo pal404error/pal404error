@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
-- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
-- [I Should&#39;ve Told You](https://open.spotify.com/track/5Q9KfZHV6BZZLQzhKpfPpq)
-- [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
-- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
+- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
+- [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo)
+- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
+- [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
