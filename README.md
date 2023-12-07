@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [Givin’ Up &lpar;Not The One&rpar; &lpar;Don Toliver &amp; 21 Savage, 2 Chainz&rpar;](https://open.spotify.com/track/0KoBrntyQ2x6Y1eZwgGe5P)
-- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
-- [Butterflies](https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ)
-- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
+- [Satisfya](https://open.spotify.com/track/6HGoVbCUr63SgU3TjxEVj6)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
+- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
 <!-- SPOTIFY:END -->
 </td>
     <td>
