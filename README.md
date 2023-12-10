@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [Satisfya](https://open.spotify.com/track/6HGoVbCUr63SgU3TjxEVj6)
+- [fix me](https://open.spotify.com/track/2q4li0V68clZKWUVnnPlnf)
 - [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
 - [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
-- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
+- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
 <!-- SPOTIFY:END -->
 </td>
     <td>
