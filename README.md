@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D)
-- [fix me](https://open.spotify.com/track/2q4li0V68clZKWUVnnPlnf)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
 - [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
-- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
 <!-- SPOTIFY:END -->
 </td>
     <td>
