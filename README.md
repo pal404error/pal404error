@@ -37,10 +37,10 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
+- [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
+- [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc)
+- [Reasons You Should Care](https://open.spotify.com/track/4uuSmtQXYcFwlvFoyC2qiu)
 - [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
-- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
 - [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
 <!-- SPOTIFY:END -->
 </td>
