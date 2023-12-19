@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
-- [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc)
-- [Reasons You Should Care](https://open.spotify.com/track/4uuSmtQXYcFwlvFoyC2qiu)
-- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
+- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
+- [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC)
+- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
 <!-- SPOTIFY:END -->
 </td>
     <td>
