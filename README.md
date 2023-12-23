@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
 - [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
 - [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
-- [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC)
-- [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf)
+- [Reasons You Should Care](https://open.spotify.com/track/4uuSmtQXYcFwlvFoyC2qiu)
+- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
 <!-- SPOTIFY:END -->
 </td>
     <td>
