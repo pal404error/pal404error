@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [a world of chaos &lpar;feat. Rxseboy, Jomie &amp; Ivri&rpar;](https://open.spotify.com/track/3a2u2qDijKes0TpHczoVYB)
-- [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz)
-- [Reasons You Should Care](https://open.spotify.com/track/4uuSmtQXYcFwlvFoyC2qiu)
-- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
+- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
+- [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
+- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
+- [Eyes Blue Like The Atlantic &lpar;feat. Subvrbs&rpar;](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1)
 <!-- SPOTIFY:END -->
 </td>
     <td>
