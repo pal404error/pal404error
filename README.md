@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
 - [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
+- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
+- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
 - [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
-- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
-- [Eyes Blue Like The Atlantic &lpar;feat. Subvrbs&rpar;](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1)
 <!-- SPOTIFY:END -->
 </td>
     <td>
