@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)
-- [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)
-- [Outside](https://open.spotify.com/track/2RdREuezrUKCuCcCz5a7ZC)
-- [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
+- [Self Love &lpar;Spider-Man: Across the Spider-Verse&rpar; &lpar;Metro Boomin &amp; Coi Leray&rpar;](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [Reasons You Should Care](https://open.spotify.com/track/4uuSmtQXYcFwlvFoyC2qiu)
+- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
 <!-- SPOTIFY:END -->
 </td>
     <td>
