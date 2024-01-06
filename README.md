@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
-- [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy)
-- [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d)
-- [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
-- [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
+- [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6)
+- [Girlfriend](https://open.spotify.com/track/0ucEhTehPgWkVroKMnQdbz)
+- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
+- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
+- [Haan Ho Gayi Galti](https://open.spotify.com/track/0MG15ZlBR4Xh3Yz9mg8KCy)
 <!-- SPOTIFY:END -->
 </td>
     <td>
