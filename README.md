@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6)
+- [Kuch To Hai](https://open.spotify.com/track/0uFosRhSqfxPxYhn6TWRpC)
 - [Girlfriend](https://open.spotify.com/track/0ucEhTehPgWkVroKMnQdbz)
-- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
-- [popular girl, typical boy &lpar;feat. sleep.ing&rpar;](https://open.spotify.com/track/6K8YDOe6C2HgnMJNYhUOHE)
-- [Haan Ho Gayi Galti](https://open.spotify.com/track/0MG15ZlBR4Xh3Yz9mg8KCy)
+- [I Should&#39;ve Told You](https://open.spotify.com/track/5Q9KfZHV6BZZLQzhKpfPpq)
+- [Green Gang](https://open.spotify.com/track/56znLgMmxNHqCTOCETf5vy)
+- [Happier](https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1)
 <!-- SPOTIFY:END -->
 </td>
     <td>
