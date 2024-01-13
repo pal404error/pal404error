@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Kuch To Hai](https://open.spotify.com/track/0uFosRhSqfxPxYhn6TWRpC)
-- [Girlfriend](https://open.spotify.com/track/0ucEhTehPgWkVroKMnQdbz)
-- [I Should&#39;ve Told You](https://open.spotify.com/track/5Q9KfZHV6BZZLQzhKpfPpq)
+- [Kaam 25 - Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h)
 - [Green Gang](https://open.spotify.com/track/56znLgMmxNHqCTOCETf5vy)
-- [Happier](https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1)
+- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
+- [Havana &lpar;feat. Young Thug&rpar;](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W)
+- [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD)
 <!-- SPOTIFY:END -->
 </td>
     <td>
