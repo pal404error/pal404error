@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Kaam 25 - Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h)
-- [Green Gang](https://open.spotify.com/track/56znLgMmxNHqCTOCETf5vy)
-- [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb)
-- [Havana &lpar;feat. Young Thug&rpar;](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W)
-- [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD)
+- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
+- [Eyes Blue Like The Atlantic &lpar;feat. Subvrbs&rpar;](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1)
+- [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR)
+- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
+- [Tu Hi Hai Aashiqui - Duet](https://open.spotify.com/track/25lsnAgJnW8aYfNAOthKko)
 <!-- SPOTIFY:END -->
 </td>
     <td>
