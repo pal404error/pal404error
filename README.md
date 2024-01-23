@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
-- [Eyes Blue Like The Atlantic &lpar;feat. Subvrbs&rpar;](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1)
-- [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR)
-- [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne)
-- [Tu Hi Hai Aashiqui - Duet](https://open.spotify.com/track/25lsnAgJnW8aYfNAOthKko)
+- [Right Now &lpar;Na Na Na&rpar;](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw)
+- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
+- [Saint-Tropez](https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq)
+- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
+- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
 <!-- SPOTIFY:END -->
 </td>
     <td>
