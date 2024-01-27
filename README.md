@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Right Now &lpar;Na Na Na&rpar;](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw)
-- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
-- [Saint-Tropez](https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq)
-- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)
+- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
+- [Tu Hi Hai Aashiqui - Duet](https://open.spotify.com/track/25lsnAgJnW8aYfNAOthKko)
+- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
+- [Rasputin](https://open.spotify.com/track/5lWSa1rmuSL6OBPOnkAqoa)
 <!-- SPOTIFY:END -->
 </td>
     <td>
