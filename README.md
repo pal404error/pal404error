@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [My Oh My &lpar;feat. DaBaby&rpar;](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K)
-- [Eastside &lpar;with Halsey &amp; Khalid&rpar;](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao)
-- [Saint-Tropez](https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq)
-- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
+- [Rasputin](https://open.spotify.com/track/5lWSa1rmuSL6OBPOnkAqoa)
+- [I Can&#39;t Stop &lpar;Big Boss Vette &amp; Omah Lay&rpar;](https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6)
+- [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
+- [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW)
 <!-- SPOTIFY:END -->
 </td>
     <td>
