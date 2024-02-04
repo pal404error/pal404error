@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
-- [Rasputin](https://open.spotify.com/track/5lWSa1rmuSL6OBPOnkAqoa)
-- [I Can&#39;t Stop &lpar;Big Boss Vette &amp; Omah Lay&rpar;](https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6)
-- [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-- [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW)
+- [Hawayein &lpar;From &quot;Jab Harry Met Sejal&quot;&rpar;](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt)
+- [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi)
+- [Itni Si Baat Hain &lpar;From &quot;Azhar&quot;&rpar;](https://open.spotify.com/track/55TlMMnPJTk9Qq6CrqB6dx)
+- [Manwa Laage &lpar;From &quot;Happy New Year&quot;&rpar;](https://open.spotify.com/track/62mr2hwJTeNd6emoohBRZh)
+- [Bitch Please II](https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP)
 <!-- SPOTIFY:END -->
 </td>
     <td>
