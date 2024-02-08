@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Hawayein &lpar;From &quot;Jab Harry Met Sejal&quot;&rpar;](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt)
-- [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi)
-- [Itni Si Baat Hain &lpar;From &quot;Azhar&quot;&rpar;](https://open.spotify.com/track/55TlMMnPJTk9Qq6CrqB6dx)
+- [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL)
+- [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
+- [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
 - [Manwa Laage &lpar;From &quot;Happy New Year&quot;&rpar;](https://open.spotify.com/track/62mr2hwJTeNd6emoohBRZh)
-- [Bitch Please II](https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP)
 <!-- SPOTIFY:END -->
 </td>
     <td>
