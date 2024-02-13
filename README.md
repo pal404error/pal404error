@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE)
-- [Day &#39;N&#39; Nite](https://open.spotify.com/track/4AX0P9ppXayrWr563KABpk)
-- [Bitch Please II](https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP)
-- [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW)
-- [Desi Kalakaar](https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922)
+- [Hawayein &lpar;From &quot;Jab Harry Met Sejal&quot;&rpar;](https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt)
+- [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc)
+- [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL)
+- [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi)
+- [Khairiyat &lpar;Bonus Track&rpar;](https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk)
 <!-- SPOTIFY:END -->
 </td>
     <td>
