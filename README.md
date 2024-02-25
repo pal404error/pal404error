@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)
-- [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y)
-- [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51)
-- [It Takes Two](https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc)
-- [I Don&#39;t Wanna Be Touched](https://open.spotify.com/track/60d3GSddOHKz1GeoWsv1dL)
+- [Jee Le Zaraa](https://open.spotify.com/track/2r32XiAWtZbT3eLUvf4pag)
+- [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6)
+- [Paris](https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG)
+- [Adlay](https://open.spotify.com/track/2IacTIkShaUnyqaTsVLKAl)
 <!-- SPOTIFY:END -->
 </td>
     <td>
