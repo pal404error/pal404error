@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)
-- [Jee Le Zaraa](https://open.spotify.com/track/2r32XiAWtZbT3eLUvf4pag)
-- [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6)
-- [Paris](https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG)
-- [Adlay](https://open.spotify.com/track/2IacTIkShaUnyqaTsVLKAl)
+- [My Oh My &lpar;feat. DaBaby&rpar;](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K)
+- [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I)
+- [Moonlight Shawty](https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87)
+- [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y)
+- [Falling In Love](https://open.spotify.com/track/4qAEFnCVCqZsIcaOKQwMUj)
 <!-- SPOTIFY:END -->
 </td>
     <td>
