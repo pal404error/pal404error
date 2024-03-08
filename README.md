@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [My Oh My &lpar;feat. DaBaby&rpar;](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K)
-- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
-- [Jee Le Zaraa](https://open.spotify.com/track/2r32XiAWtZbT3eLUvf4pag)
-- [Jhak Maar Ke](https://open.spotify.com/track/7pTYN6Gxy3MOibdXmkzc5V)
-- [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf)
+- [Day by Day](https://open.spotify.com/track/7ennBS5KF7XksS3WvusJSS)
+- [Sean - Remix](https://open.spotify.com/track/526Mb0zipuiP3mG1R2J9TE)
+- [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk)
+- [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2)
+- [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby)
 <!-- SPOTIFY:END -->
 </td>
     <td>
