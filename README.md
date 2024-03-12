@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Day by Day](https://open.spotify.com/track/7ennBS5KF7XksS3WvusJSS)
-- [Sean - Remix](https://open.spotify.com/track/526Mb0zipuiP3mG1R2J9TE)
-- [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk)
-- [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2)
-- [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby)
+- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
+- [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
+- [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63)
 <!-- SPOTIFY:END -->
 </td>
     <td>
