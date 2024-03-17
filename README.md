@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP)
+- [Party Girl](https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l)
+- [Computer Crash](https://open.spotify.com/track/6MZ91tbZxwwqimJffOoLsW)
 - [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [don&#39;t fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM)
-- [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49)
-- [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63)
 <!-- SPOTIFY:END -->
 </td>
     <td>
