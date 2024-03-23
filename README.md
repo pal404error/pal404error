@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [Day by Day](https://open.spotify.com/track/7ennBS5KF7XksS3WvusJSS)
 - [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
 - [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk)
 - [What A Time &lpar;feat. Niall Horan&rpar;](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT)
-- [Don&#39;t Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK)
+- [Don&#39;t Let Me Down &lpar;feat. Daya&rpar;](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK)
 <!-- SPOTIFY:END -->
 </td>
     <td>
