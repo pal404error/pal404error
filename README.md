@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Day by Day](https://open.spotify.com/track/7ennBS5KF7XksS3WvusJSS)
-- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
-- [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk)
+- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
 - [What A Time &lpar;feat. Niall Horan&rpar;](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT)
 - [Don&#39;t Let Me Down &lpar;feat. Daya&rpar;](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK)
+- [Дихотомия, Ч. 1](https://open.spotify.com/track/5WC9V74xbm8azjRTi9NITT)
 <!-- SPOTIFY:END -->
 </td>
     <td>
