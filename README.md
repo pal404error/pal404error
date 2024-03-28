@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Day by Day](https://open.spotify.com/track/7ennBS5KF7XksS3WvusJSS)
-- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
-- [What A Time &lpar;feat. Niall Horan&rpar;](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT)
-- [Don&#39;t Let Me Down &lpar;feat. Daya&rpar;](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK)
-- [Дихотомия, Ч. 1](https://open.spotify.com/track/5WC9V74xbm8azjRTi9NITT)
+- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [Ajab Si](https://open.spotify.com/track/5FXMRdJjKq1BIX4e8Eg9mK)
+- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
+- [Kaam 25 - Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h)
+- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
 <!-- SPOTIFY:END -->
 </td>
     <td>
