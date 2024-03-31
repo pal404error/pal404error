@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
-- [Ajab Si](https://open.spotify.com/track/5FXMRdJjKq1BIX4e8Eg9mK)
-- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
-- [Kaam 25 - Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h)
+- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
+- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
 - [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [Heeriye &lpar;feat. Arijit Singh&rpar;](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li)
+- [Side By Side](https://open.spotify.com/track/1lVfALSCpk9fyaQOI2CQFs)
 <!-- SPOTIFY:END -->
 </td>
     <td>
