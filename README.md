@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC)
-- [Another Day](https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky)
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
-- [Heeriye &lpar;feat. Arijit Singh&rpar;](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li)
+- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA)
 - [Side By Side](https://open.spotify.com/track/1lVfALSCpk9fyaQOI2CQFs)
+- [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
+- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
 <!-- SPOTIFY:END -->
 </td>
     <td>
