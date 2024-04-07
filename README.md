@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
-- [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA)
-- [Side By Side](https://open.spotify.com/track/1lVfALSCpk9fyaQOI2CQFs)
+- [Conversations](https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob)
+- [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D)
 - [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
 - [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
+- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
 <!-- SPOTIFY:END -->
 </td>
     <td>
