@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Conversations](https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob)
-- [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D)
-- [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
+- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
+- [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
 - [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
 - [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
+- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
 <!-- SPOTIFY:END -->
 </td>
     <td>
