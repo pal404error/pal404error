@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
-- [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
-- [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X)
-- [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF)
-- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
+- [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx)
+- [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)
+- [Kali Kali Zulfon Ke &lpar;Lo-Fi&rpar;](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt)
+- [Hey Mama &lpar;feat. Nicki Minaj, Bebe Rexha &amp; Afrojack&rpar;](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm)
+- [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j)
 <!-- SPOTIFY:END -->
 </td>
     <td>
