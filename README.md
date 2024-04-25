@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx)
-- [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-- [It&#39;s You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29)
-- [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp)
-- [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)
+- [Mansion Tears](https://open.spotify.com/track/5YrAaXakuStf0AOY8f0Py4)
+- [i don&#39;t care](https://open.spotify.com/track/62yv3Rb6RTlvZP5wm7tExO)
+- [Conversations](https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob)
+- [Darpan](https://open.spotify.com/track/3AyijzhoYZZzfr998qhJh9)
 <!-- SPOTIFY:END -->
 </td>
     <td>
