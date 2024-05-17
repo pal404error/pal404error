@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX)
-- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [Close Eyes - Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq)
+- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
+- [Stereo Hearts &lpar;feat. Adam Levine&rpar;](https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz)
 - [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
+- [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
 <!-- SPOTIFY:END -->
 </td>
     <td>
