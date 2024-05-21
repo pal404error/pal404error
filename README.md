@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX)
-- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
-- [Stereo Hearts &lpar;feat. Adam Levine&rpar;](https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz)
+- [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx)
 - [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
 - [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
+- [Conversations](https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob)
 <!-- SPOTIFY:END -->
 </td>
     <td>
