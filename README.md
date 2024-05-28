@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX)
-- [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx)
-- [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ)
+- [Superhero &lpar;Heroes &amp; Villains&rpar; [with Future &amp; Chris Brown]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j)
+- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
 - [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
-- [Conversations](https://open.spotify.com/track/4K06PO78fW4mnBVenxGNob)
+- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
+- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
 <!-- SPOTIFY:END -->
 </td>
     <td>
