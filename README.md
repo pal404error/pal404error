@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Superhero &lpar;Heroes &amp; Villains&rpar; [with Future &amp; Chris Brown]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j)
-- [death bed &lpar;feat. beabadoobee &amp; blink-182&rpar; - bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom)
-- [Hide in Your Blue Eyes](https://open.spotify.com/track/1CllnMh66pnKIeEpJrTYxp)
-- [Chalo Chalein](https://open.spotify.com/track/3uB2mkp8ovjiuJA734dbGe)
-- [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ)
+- [Mansion Tears](https://open.spotify.com/track/5YrAaXakuStf0AOY8f0Py4)
+- [Sangemarmar](https://open.spotify.com/track/7MQQZNNpBpWx8WnjZk3Dro)
+- [Ab Aaoge Kya](https://open.spotify.com/track/4W7tDCBuIqx2eUBnVzb9oq)
+- [eleanor &amp; bellami](https://open.spotify.com/track/7f16PqWBwN1G2NcFmSC1ha)
 <!-- SPOTIFY:END -->
 </td>
     <td>
