@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Superhero &lpar;Heroes &amp; Villains&rpar; [with Future &amp; Chris Brown]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j)
-- [Ab Aaoge Kya](https://open.spotify.com/track/4W7tDCBuIqx2eUBnVzb9oq)
+- [Hey Mama &lpar;feat. Nicki Minaj, Bebe Rexha &amp; Afrojack&rpar;](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm)
+- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
+- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
 - [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz)
-- [eleanor &amp; bellami](https://open.spotify.com/track/7f16PqWBwN1G2NcFmSC1ha)
-- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
+- [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
 <!-- SPOTIFY:END -->
 </td>
     <td>
