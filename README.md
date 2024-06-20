@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
+- [Desperado](https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [What Jhumka ? &lpar;From &quot;Rocky Aur Rani Kii Prem Kahaani&quot;&rpar;](https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW)
 - [Hey Mama &lpar;feat. Nicki Minaj, Bebe Rexha &amp; Afrojack&rpar;](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm)
 - [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
-- [Machayenge](https://open.spotify.com/track/5yUxKeTYbocSVfT1BUWJpb)
-- [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz)
-- [Young Shahrukh](https://open.spotify.com/track/42C9YmmOF7PkiHWpulxzcq)
 <!-- SPOTIFY:END -->
 </td>
     <td>
