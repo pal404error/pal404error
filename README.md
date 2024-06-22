@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
+- [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1)
+- [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
 - [Desperado](https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN)
-- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz)
 - [What Jhumka ? &lpar;From &quot;Rocky Aur Rani Kii Prem Kahaani&quot;&rpar;](https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW)
-- [Hey Mama &lpar;feat. Nicki Minaj, Bebe Rexha &amp; Afrojack&rpar;](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm)
-- [Nidarr](https://open.spotify.com/track/1KSfUcxcdYJsdaPsbpmPRD)
 <!-- SPOTIFY:END -->
 </td>
     <td>
