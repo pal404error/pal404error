@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
-- [Desperado](https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN)
+- [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
+- [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1)
+- [Keede](https://open.spotify.com/track/3CAT2A1HRkidAxrK5MnGkU)
 - [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN)
-- [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz)
-- [Godzilla &lpar;feat. Juice WRLD&rpar;](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ)
+- [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
 <!-- SPOTIFY:END -->
 </td>
     <td>
