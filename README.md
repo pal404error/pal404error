@@ -38,9 +38,9 @@
 
 <!-- SPOTIFY:START -->
 - [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
-- [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1)
+- [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA)
 - [Keede](https://open.spotify.com/track/3CAT2A1HRkidAxrK5MnGkU)
-- [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN)
+- [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j)
 - [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
 <!-- SPOTIFY:END -->
 </td>
