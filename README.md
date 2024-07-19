@@ -39,8 +39,8 @@
 <!-- SPOTIFY:START -->
 - [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
 - [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA)
-- [Keede](https://open.spotify.com/track/3CAT2A1HRkidAxrK5MnGkU)
-- [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j)
+- [Breakfast With the Moon](https://open.spotify.com/track/3p8iG863bPsafyReUXaqXO)
+- [The Night We Met &lpar;feat. Phoebe Bridgers&rpar;](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l)
 - [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
 <!-- SPOTIFY:END -->
 </td>
