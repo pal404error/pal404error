@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1)
 - [Hey Mama &lpar;feat. Nicki Minaj, Bebe Rexha &amp; Afrojack&rpar;](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm)
 - [Keede](https://open.spotify.com/track/3CAT2A1HRkidAxrK5MnGkU)
 - [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS)
 - [Jacquemus](https://open.spotify.com/track/2Clsrt0Md2mSXiokyUKgyA)
+- [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j)
 <!-- SPOTIFY:END -->
 </td>
     <td>
