@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
+- [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
+- [Mimmi](https://open.spotify.com/track/3N5pSTLV4v2FZonI4JMRW1)
 - [Six Days - Remix](https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1)
 - [All We Know](https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK)
 - [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya)
-- [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX)
-- [Superhero &lpar;Heroes &amp; Villains&rpar; [with Future &amp; Chris Brown]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j)
 <!-- SPOTIFY:END -->
 </td>
     <td>
