@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
+- [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
 - [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
+- [Mimmi](https://open.spotify.com/track/3N5pSTLV4v2FZonI4JMRW1)
 - [Downers At Dusk](https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA)
 - [Tareefan](https://open.spotify.com/track/2SN54RFfaafTk7TE1n1Na4)
-- [Six Days - Remix](https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1)
-- [All We Know](https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK)
 <!-- SPOTIFY:END -->
 </td>
     <td>
