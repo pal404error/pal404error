@@ -39,9 +39,9 @@
 <!-- SPOTIFY:START -->
 - [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
 - [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
+- [Goodbye My Baby](https://open.spotify.com/track/3sGKAb2yt86tweg6hPjVB9)
+- [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
 - [Mimmi](https://open.spotify.com/track/3N5pSTLV4v2FZonI4JMRW1)
-- [Tareefan](https://open.spotify.com/track/2SN54RFfaafTk7TE1n1Na4)
-- [Six Days - Remix](https://open.spotify.com/track/5j3QqRGflS4o5jbsFSwKW1)
 <!-- SPOTIFY:END -->
 </td>
     <td>
