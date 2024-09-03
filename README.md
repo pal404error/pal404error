@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)
+- [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
 - [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
 - [Goodbye My Baby](https://open.spotify.com/track/3sGKAb2yt86tweg6hPjVB9)
 - [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
-- [Mimmi](https://open.spotify.com/track/3N5pSTLV4v2FZonI4JMRW1)
 <!-- SPOTIFY:END -->
 </td>
     <td>
