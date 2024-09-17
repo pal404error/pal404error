@@ -39,9 +39,9 @@
 <!-- SPOTIFY:START -->
 - [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
 - [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
-- [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
-- [Goodbye My Baby](https://open.spotify.com/track/3sGKAb2yt86tweg6hPjVB9)
 - [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS)
+- [Goodbye My Baby](https://open.spotify.com/track/3sGKAb2yt86tweg6hPjVB9)
+- [Mask Off &lpar;feat. Kendrick Lamar&rpar; - Remix](https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG)
 <!-- SPOTIFY:END -->
 </td>
     <td>
