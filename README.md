@@ -38,7 +38,7 @@
 
 <!-- SPOTIFY:START -->
 - [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
+- [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6)
 - [Tu Jaane Na](https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO)
 - [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS)
 - [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
