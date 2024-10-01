@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 - [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6)
 - [Tu Jaane Na](https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO)
+- [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
 - [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS)
-- [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp)
+- [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
 <!-- SPOTIFY:END -->
 </td>
     <td>
