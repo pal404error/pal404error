@@ -40,7 +40,7 @@
 - [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6)
 - [Tu Jaane Na](https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO)
 - [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [Godzilla &lpar;feat. Juice WRLD&rpar;](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ)
+- [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
 - [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
 <!-- SPOTIFY:END -->
 </td>
