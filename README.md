@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6)
+- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
+- [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
+- [Kabhi Kabhi Aditi](https://open.spotify.com/track/3APdIdF8H0jsxSuGOqXedS)
 - [Tu Jaane Na](https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO)
 - [Sunflower - Spider-Man: Into the Spider-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P)
-- [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
-- [Nadaan Parinde](https://open.spotify.com/track/6Z394Nd4gW6Ts9hmu3NUjx)
 <!-- SPOTIFY:END -->
 </td>
     <td>
