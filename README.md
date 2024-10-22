@@ -37,11 +37,11 @@
       <h2> 🎵  MY TOP SPOTIFY SONGS </h2>
 
 <!-- SPOTIFY:START -->
-- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
-- [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk)
+- [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC)
 - [Tokyo Drift &lpar;Fast &amp; Furious&rpar; - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack](https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU)
-- [Tu Jaane Na](https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO)
-- [Young Dumb &amp; Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY)
+- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
+- [Tokyo Drift](https://open.spotify.com/track/09nXysisEErgnazac7PcpA)
+- [Kabhi Kabhi Aditi](https://open.spotify.com/track/3APdIdF8H0jsxSuGOqXedS)
 <!-- SPOTIFY:END -->
 </td>
     <td>
