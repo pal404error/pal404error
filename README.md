@@ -38,10 +38,10 @@
 
 <!-- SPOTIFY:START -->
 - [Tokyo Drift &lpar;Fast &amp; Furious&rpar; - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack](https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU)
+- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
 - [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT)
-- [Ghodey Pe Sawaar &lpar;From &quot;Qala&quot;&rpar;](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl)
-- [Bhool Bhulaiyaa 2 Title Track &lpar;From &quot;Bhool Bhulaiyaa 2&quot;&rpar;](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET)
-- [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R)
+- [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j)
+- [Keede](https://open.spotify.com/track/3CAT2A1HRkidAxrK5MnGkU)
 <!-- SPOTIFY:END -->
 </td>
     <td>
