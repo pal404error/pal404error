@@ -39,9 +39,9 @@
 <!-- SPOTIFY:START -->
 - [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW)
 - [Tokyo Drift &lpar;Fast &amp; Furious&rpar; - From &quot;The Fast And The Furious: Tokyo Drift&quot; Soundtrack](https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU)
-- [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k)
 - [I&#39;m Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk)
-- [Iktara &lpar;From &quot;Wake Up Sid&quot;&rpar;](https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG)
+- [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R)
+- [Ghodey Pe Sawaar &lpar;From &quot;Qala&quot;&rpar;](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl)
 <!-- SPOTIFY:END -->
 </td>
     <td>
