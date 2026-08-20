@@ -12,40 +12,62 @@
 
   <rect width="1000" height="380" rx="18" fill="#0a0a0c" stroke="#1d1d1f" stroke-width="1"/>
 
-  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="url(#lg)" xml:space="preserve">
-    <text x="40" y="44">                   -</text>
-    <text x="40" y="60">                  .o+`</text>
-    <text x="40" y="76">                 `ooo/</text>
-    <text x="40" y="92">                `+oooo:</text>
-    <text x="40" y="108">               `+oooooo:</text>
-    <text x="40" y="124">               -+oooooo+:</text>
-    <text x="40" y="140">             `/:-:++oooo+:</text>
-    <text x="40" y="156">            `/++++/+++++++:</text>
-    <text x="40" y="172">           `/++++++++++++++:</text>
-    <text x="40" y="188">          `/+++ooooooooooooo/`</text>
-    <text x="40" y="204">         ./ooosssso++osssssso+`</text>
-    <text x="40" y="220">        .oossssso-````/ossssss+`</text>
-    <text x="40" y="236">       -osssssso.      :ssssssso.</text>
-    <text x="40" y="252">      :osssssss/        osssso+++.`</text>
-    <text x="40" y="268">     /ossssssss/        +ssssoooo/-</text>
-    <text x="40" y="284">   `/ossssso+/:-        -:/+osssso+-</text>
-    <text x="40" y="300">  `+sso+:-`   `-/ooooo+/::::::::</text>
-    <text x="40" y="316"> `++:.`                       `.-/+</text>
-    <text x="40" y="332"> .`</text>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0000;0.2000;1" values="0;0;1;0;0"/>
+        <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="url(#lg)" xml:space="preserve">
+      <text x="40" y="44">                   -</text>
+      <text x="40" y="60">                  .o+`</text>
+      <text x="40" y="76">                 `ooo/</text>
+      <text x="40" y="92">                `+oooo:</text>
+      <text x="40" y="108">               `+oooooo:</text>
+      <text x="40" y="124">               -+oooooo+:</text>
+      <text x="40" y="140">             `/:-:++oooo+:</text>
+      <text x="40" y="156">            `/++++/+++++++:</text>
+      <text x="40" y="172">           `/++++++++++++++:</text>
+      <text x="40" y="188">          `/+++ooooooooooooo/`</text>
+      <text x="40" y="204">         ./ooosssso++osssssso+`</text>
+      <text x="40" y="220">        .oossssso-````/ossssss+`</text>
+      <text x="40" y="236">       -osssssso.      :ssssssso.</text>
+      <text x="40" y="252">      :osssssss/        osssso+++.`</text>
+      <text x="40" y="268">     /ossssssss/        +ssssoooo/-</text>
+      <text x="40" y="284">   `/ossssso+/:-        -:/+osssso+-</text>
+      <text x="40" y="300">  `+sso+:-`   `-/ooooo+/::::::::</text>
+      <text x="40" y="316"> `++:.`                       `.-/+</text>
+      <text x="40" y="332"> .`</text>
+    </g>
+    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#00F0FF">OS: Arch Linux</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.2000;0.2000;0.4000;1" values="0;0;1;0;0"/>
+        <g>      <path d="M200,92 C172,82 142,104 137,154 C133,194 152,238 197,252 C202,254 208,254 213,252 C258,238 277,194 273,154 C269,112 242,86 217,96 C212,82 206,84 200,92 Z" fill="#f5f5f7"/>      <path d="M204,90 C206,72 216,62 228,64 C226,80 216,92 204,90 Z" fill="#f5f5f7"/>      <circle cx="252" cy="150" r="22" fill="#0a0a0c"/>    </g>
+    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#f5f5f7">OS: macOS</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.4000;0.4000;0.6000;1" values="0;0;1;0;0"/>
+        <g fill="none" stroke="#E95420" stroke-width="13">      <circle cx="200" cy="178" r="68"/>      <circle cx="200" cy="178" r="38"/>    </g>    <g fill="#E95420">      <circle cx="200" cy="110" r="9"/>      <circle cx="200" cy="246" r="9"/>      <circle cx="132" cy="178" r="9"/>      <circle cx="268" cy="178" r="9"/>    </g>
+    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#E95420">OS: Ubuntu</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.6000;0.6000;0.8000;1" values="0;0;1;0;0"/>
+        <g>      <rect x="150" y="112" width="46" height="46" rx="4" fill="#F25022"/>      <rect x="206" y="112" width="46" height="46" rx="4" fill="#7FBA00"/>      <rect x="150" y="168" width="46" height="46" rx="4" fill="#00A4EF"/>      <rect x="206" y="168" width="46" height="46" rx="4" fill="#FFB900"/>    </g>
+    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#00A4EF">OS: Windows</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.8000;0.8000;1.0000;1" values="0;0;1;0;0"/>
+        <g>      <circle cx="200" cy="178" r="70" fill="#3C6EB4"/>      <text x="200" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="86" font-weight="700" fill="#ffffff">f</text>    </g>
+    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#3C6EB4">OS: Fedora</text>
   </g>
 
-  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
     <text x="470" y="48" fill="#f5f5f7">pal404error<tspan fill="#86868b">@github</tspan></text>
     <text x="470" y="68" fill="#86868b">----------------</text>
-    <text x="470" y="96"><tspan fill="url(#key)">OS</tspan><tspan fill="#f5f5f7">: GitHub Profile</tspan></text>
-    <text x="470" y="118"><tspan fill="url(#key)">Host</tspan><tspan fill="#f5f5f7">: github.com</tspan></text>
-    <text x="470" y="140"><tspan fill="url(#key)">Uptime</tspan><tspan fill="#f5f5f7">: 5y 135d</tspan></text>
+    <text x="470" y="120"><tspan fill="url(#key)">Host</tspan><tspan fill="#f5f5f7">: github.com</tspan></text>
+    <text x="470" y="141"><tspan fill="url(#key)">Uptime</tspan><tspan fill="#f5f5f7">: 5y 135d</tspan></text>
     <text x="470" y="162"><tspan fill="url(#key)">Followers</tspan><tspan fill="#f5f5f7">: 22</tspan></text>
-    <text x="470" y="184"><tspan fill="url(#key)">Following</tspan><tspan fill="#f5f5f7">: 35</tspan></text>
-    <text x="470" y="206"><tspan fill="url(#key)">Repos</tspan><tspan fill="#f5f5f7">: 50</tspan></text>
-    <text x="470" y="228"><tspan fill="url(#key)">Stars</tspan><tspan fill="#f5f5f7">: 187</tspan></text>
-    <text x="470" y="250"><tspan fill="url(#key)">Top Lang</tspan><tspan fill="#f5f5f7">: JavaScript</tspan></text>
-    <text x="470" y="272"><tspan fill="url(#key)">Joined</tspan><tspan fill="#f5f5f7">: 2021-04-09</tspan></text>
-    <text x="470" y="294"><tspan fill="url(#key)">Last Active</tspan><tspan fill="#f5f5f7">: 2026-07-17</tspan></text>
-  </g>
-</svg>
+    <text x="470" y="183"><tspan fill="url(#key)">Following</tspan><tspan fill="#f5f5f7">: 35</tspan></text>
+    <text x="470" y="204"><tspan fill="url(#key)">Repos</tspan><tspan fill="#f5f5f7">: 50</tspan></text>
+    <text x="470" y="225"><tspan fill="url(#key)">Stars</tspan><tspan fill="#f5f5f7">: 187</tspan></text>
+    <text x="470" y="246"><tspan fill="url(#key)">Top Lang</tspan><tspan fill="#f5f5f7">: JavaScript</tspan></text>
+    <text x="470" y="267"><tspan fill="url(#key)">Joined</tspan><tspan fill="#f5f5f7">: 2021-04-09</tspan></text>
+    <text x="470" y="288"><tspan fill="url(#key)">Last Active</tspan><tspan fill="#f5f5f7">: 2026-07-17</tspan></text>
+  </g></svg>
