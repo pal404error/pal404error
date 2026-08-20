@@ -126,8 +126,9 @@ for i, o in enumerate(oses):
     a = i * slot / total
     b = (i + 1) * slot / total
     keytimes = f"0;{a:.4f};{a:.4f};{b:.4f};1"
+    init_op = "1" if i == 0 else "0"
     os_groups += (
-        f'  <g opacity="0">\n'
+        f'  <g opacity="{init_op}">\n'
         f'    <animate attributeName="opacity" dur="{total:.1f}s" repeatCount="indefinite" '
         f'keyTimes="{keytimes}" values="0;0;1;0;0"/>\n'
         f'    {o["logo"]}\n'
