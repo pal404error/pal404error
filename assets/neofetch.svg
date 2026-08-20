@@ -1,0 +1,54 @@
+<svg width="1000" height="380" viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neofetch">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="key" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2997ff"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="380" rx="18" fill="#0a0a0c" stroke="#1d1d1f" stroke-width="1"/>
+
+  <!-- Arch logo -->
+  <g font-family="ui-monospace, 'SF Mono, Menlo, Consolas, monospace" font-size="12" fill="url(#lg)" xml:space="preserve">
+    <text x="40" y="44">                   -</text>
+    <text x="40" y="60">                  .o+`</text>
+    <text x="40" y="76">                 `ooo/</text>
+    <text x="40" y="92">                `+oooo:</text>
+    <text x="40" y="108">               `+oooooo:</text>
+    <text x="40" y="124">               -+oooooo+:</text>
+    <text x="40" y="140">             `/:-:++oooo+:</text>
+    <text x="40" y="156">            `/++++/+++++++:</text>
+    <text x="40" y="172">           `/++++++++++++++:</text>
+    <text x="40" y="188">          `/+++ooooooooooooo/`</text>
+    <text x="40" y="204">         ./ooosssso++osssssso+`</text>
+    <text x="40" y="220">        .oossssso-````/ossssss+`</text>
+    <text x="40" y="236">       -osssssso.      :ssssssso.</text>
+    <text x="40" y="252">      :osssssss/        osssso+++.</text>
+    <text x="40" y="268">     /ossssssss/        +ssssoooo/-</text>
+    <text x="40" y="284">   `/ossssso+/:-        -:/+osssso+-</text>
+    <text x="40" y="300">  `+sso+:-`   `-/ooooo+/::::::::</text>
+    <text x="40" y="316"> `++:.`                       `.-/+</text>
+    <text x="40" y="332"> .`</text>
+  </g>
+
+  <!-- system info -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
+    <text x="470" y="48" fill="#f5f5f7">pal404error<tspan fill="#86868b">@arch</tspan></text>
+    <text x="470" y="68" fill="#86868b">----------------</text>
+    <text x="470" y="96"><tspan fill="url(#key)">OS</tspan><tspan fill="#f5f5f7">: Arch Linux x86_64</tspan></text>
+    <text x="470" y="120"><tspan fill="url(#key)">Host</tspan><tspan fill="#f5f5f7">: Lenovo ThinkPad X1</tspan></text>
+    <text x="470" y="144"><tspan fill="url(#key)">Kernel</tspan><tspan fill="#f5f5f7">: 6.9.0-arch1-1</tspan></text>
+    <text x="470" y="168"><tspan fill="url(#key)">Uptime</tspan><tspan fill="#f5f5f7">: 69 days, 420 mins</tspan></text>
+    <text x="470" y="192"><tspan fill="url(#key)">Shell</tspan><tspan fill="#f5f5f7">: zsh 5.9</tspan></text>
+    <text x="470" y="216"><tspan fill="url(#key)">Resolution</tspan><tspan fill="#f5f5f7">: 3456x2234</tspan></text>
+    <text x="470" y="240"><tspan fill="url(#key)">WM</tspan><tspan fill="#f5f5f7">: Hyprland</tspan></text>
+    <text x="470" y="264"><tspan fill="url(#key)">Theme</tspan><tspan fill="#f5f5f7">: Catppuccin Mocha</tspan></text>
+    <text x="470" y="288"><tspan fill="url(#key)">Terminal</tspan><tspan fill="#f5f5f7">: kitty</tspan></text>
+    <text x="470" y="312"><tspan fill="url(#key)">CPU</tspan><tspan fill="#f5f5f7">: AMD Ryzen 7 7840U</tspan></text>
+    <text x="470" y="336"><tspan fill="url(#key)">Memory</tspan><tspan fill="#f5f5f7">: 9.2GiB / 32GiB</tspan></text>
+  </g>
+</svg>
