@@ -1,123 +1,109 @@
-<svg width="1000" height="380" viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neofetch">
+<svg width="1000" height="560" viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="system">
   <defs>
-    <linearGradient id="key" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2997ff"/>
-      <stop offset="1" stop-color="#A855F7"/>
+    <linearGradient id="grad0" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a84ff"/>
+      <stop offset="1" stop-color="#5ac8fa"/>
+    </linearGradient>
+    <linearGradient id="grad1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E95420"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3C6EB4"/>
+      <stop offset="1" stop-color="#5b9bd5"/>
+    </linearGradient>
+    <linearGradient id="grad3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00A4EF"/>
+      <stop offset="1" stop-color="#0078D4"/>
+    </linearGradient>
+    <linearGradient id="grad4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1793D1"/>
+      <stop offset="1" stop-color="#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0b0d"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.18" r="0.7">
+      <stop offset="0" stop-color="#1c1c22" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="30" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
     </linearGradient>
   </defs>
 
-  <rect width="1000" height="380" rx="18" fill="#0a0a0c" stroke="#1d1d1f" stroke-width="1"/>
+  <rect width="1000" height="560" fill="url(#bg)"/>
+  <rect width="1000" height="560" fill="url(#glow)"/>
+
+  <rect x="30" y="30" width="940" height="500" rx="34" fill="#0a0a0c" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1" filter="url(#cardShadow)"/>
+  <rect x="30" y="30" width="940" height="500" rx="34" fill="url(#glass)"/>
 
   <g opacity="1">
-    <animate attributeName="opacity" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0000;0.2500;1" values="0;0;1;0;0"/>
-    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#00F0FF" xml:space="preserve">
-      <text x="40" y="42">                   -`</text>
-      <text x="40" y="57">                  .o+`</text>
-      <text x="40" y="72">                 `ooo/</text>
-      <text x="40" y="87">                `+oooo:</text>
-      <text x="40" y="102">               `+oooooo:</text>
-      <text x="40" y="117">               -+oooooo+:</text>
-      <text x="40" y="132">             `/:-:++oooo+:</text>
-      <text x="40" y="147">            `/++++/+++++++:</text>
-      <text x="40" y="162">           `/++++++++++++++:</text>
-      <text x="40" y="177">          `/+++ooooooooooooo/`</text>
-      <text x="40" y="192">         ./ooosssso++osssssso+`</text>
-      <text x="40" y="207">        .oossssso-````/ossssss+`</text>
-      <text x="40" y="222">       -osssssso.      :ssssssso.</text>
-      <text x="40" y="237">      :osssssss/        osssso+++.</text>
-      <text x="40" y="252">     /ossssssss/        +ssssooo/-</text>
-      <text x="40" y="267">   `/ossssso+/:-        -:/+osssso+-</text>
-      <text x="40" y="282">  `+sso+:-`                 `.-/+oso:</text>
-      <text x="40" y="297"> `++:.                           `-/+/</text>
-      <text x="40" y="312"> .`                                 `/</text>
-    </g>
-    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#00F0FF">OS: Arch Linux</text>
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0000;0.2000;1" values="0;0;1;0;0"/>
+    <rect x="80" y="120" width="200" height="200" rx="44" fill="url(#grad0)"/>
+    <rect x="80.75" y="120.75" width="198.5" height="198.5" rx="43" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+    <path transform="translate(119,145) scale(0.15)" fill="#ffffff" d="M788.1 340.9c-5.8 4.5-108.2 62.2-108.2 190.5 0 148.4 130.3 200.9 134.2 202.2-.6 3.2-20.7 71.9-67.5 141.5-41.7 60.6-84.9 120.8-153.4 120.8s-83.2-38.8-157.7-38.8c-71.8 0-97.3 39.7-156.4 39.7-66.6 0-111.3-37.5-151.4-94.3C21.9 899.9 0 762.5 0 666.5c0-194.4 134.4-297.5 265.8-297.5 68.1 0 124.8 44.7 151.6 44.7 27.2 0 80.5-46.7 149.5-46.7 18.1 0 134.6 1.6 193.2 101.2zm-234.8-92.3c31.5-38.9 53.1-92.8 53.1-147.3 0-7.5-.6-14.9-1.9-22.1-50 3.7-106.1 33.6-122.6 76.2-14.3 37-25.6 90.4-25.6 145.3 0 7.5.6 15.2 1.9 22.1 2.5.2.5.1.7.3 44.2 0 100.6-29.6 122.4-74.2z" />
+    <text x="330" y="190" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="600" fill="#f5f5f7">macOS</text>
+    <text x="330" y="222" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" fill="#86868b">pal404error@github</text>
+    <rect x="330" y="240" width="120" height="4" rx="2" fill="url(#grad0)"/>
   </g>
   <g opacity="0">
-    <animate attributeName="opacity" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.2500;0.2500;0.5000;1" values="0;0;1;0;0"/>
-    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#E95420" xml:space="preserve">
-      <text x="40" y="42">            .:/+oossssoo+/:.`</text>
-      <text x="40" y="57">        `:+ssssssssssssssssss+:`</text>
-      <text x="40" y="72">      -+sssssssssssssssyssssssss+-</text>
-      <text x="40" y="87">    .osssssssssssssyyssmMmhssssssso.</text>
-      <text x="40" y="102">   /sssssssssydmNNNmmdsmMMMMNdysssss/</text>
-      <text x="40" y="117"> `+sssssssshNNdysssssssmMMMMNdyssssss+`</text>
-      <text x="40" y="132"> +sssssssyNNhsshmNNNNmsmMmhsydysssssss+</text>
-      <text x="40" y="147">-sssssyssNmsshNNhssssssyshhssmMysssssss-</text>
-      <text x="40" y="162">+ssssyMNdysshMdsssssssssshMdssNNsssssss+</text>
-      <text x="40" y="177">sssssyMMMMMmhsssssssssssssNMssdMysssssss</text>
-      <text x="40" y="192">sssssyMMMMMmhyssssssssssssNMssdMysssssss</text>
-      <text x="40" y="207">+ssssyMNdysshMdsssssssssshMdssNNsssssss+</text>
-      <text x="40" y="222">-sssssyssNmsshNNhssssssssdhssmMysssssss-</text>
-      <text x="40" y="237"> +sssssssyNNhsshmNNNNmsmNmhsymysssssss+</text>
-      <text x="40" y="252">  +sssssssshNNdysssssssmMMMMmhyssssss+</text>
-      <text x="40" y="267">   /sssssssssydmNNNNmdsmMMMMNdhsssss/</text>
-      <text x="40" y="282">    .osssssssssssssyyssmMmdysssssso.</text>
-      <text x="40" y="297">      -+sssssssssssssssyssssssss+-</text>
-      <text x="40" y="312">        `:+ssssssssssssssssss+:`</text>
-      <text x="40" y="327">            .:/+oossssoo+/:.</text>
-      <text x="40" y="342"></text>
-    </g>
-    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#E95420">OS: Ubuntu</text>
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.2000;0.2000;0.4000;1" values="0;0;1;0;0"/>
+    <rect x="80" y="120" width="200" height="200" rx="44" fill="url(#grad1)"/>
+    <rect x="80.75" y="120.75" width="198.5" height="198.5" rx="43" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+    <circle cx="180" cy="220" r="64" fill="none" stroke="#ffffff" stroke-width="13"/><circle cx="180" cy="220" r="36" fill="none" stroke="#ffffff" stroke-width="13"/><circle cx="180" cy="156" r="8" fill="#ffffff"/><circle cx="180" cy="284" r="8" fill="#ffffff"/><circle cx="116" cy="220" r="8" fill="#ffffff"/><circle cx="244" cy="220" r="8" fill="#ffffff"/>
+    <text x="330" y="190" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="600" fill="#f5f5f7">Ubuntu</text>
+    <text x="330" y="222" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" fill="#86868b">pal404error@github</text>
+    <rect x="330" y="240" width="120" height="4" rx="2" fill="url(#grad1)"/>
   </g>
   <g opacity="0">
-    <animate attributeName="opacity" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.5000;0.5000;0.7500;1" values="0;0;1;0;0"/>
-    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#3C6EB4" xml:space="preserve">
-      <text x="40" y="42">             .',;::::;,'.</text>
-      <text x="40" y="57">         .';:cccccccccccc:;,.</text>
-      <text x="40" y="72">      .;cccccccccccccccccccccc;.</text>
-      <text x="40" y="87">    .:cccccccccccccccccccccccccc:.</text>
-      <text x="40" y="102">  .;ccccccccccccc;.:dddl:.;ccccccc;.</text>
-      <text x="40" y="117"> .:ccccccccccccc;OWMKOOXMWd;ccccccc:.</text>
-      <text x="40" y="132">.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.</text>
-      <text x="40" y="147">,cccccccccccccc;MMM.;cc;;WW:;cccccccc,</text>
-      <text x="40" y="162">:cccccccccccccc;MMM.;cccccccccccccccc:</text>
-      <text x="40" y="177">:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:</text>
-      <text x="40" y="192">cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;</text>
-      <text x="40" y="207">ccccc;XM0';cccc;MMM.;cccccccccccccccc'</text>
-      <text x="40" y="222">ccccc;MMo;ccccc;MMW.;ccccccccccccccc;</text>
-      <text x="40" y="237">ccccc;0MNc.ccc.xMMd;ccccccccccccccc;</text>
-      <text x="40" y="252">cccccc;dNMWXXXWM0:;cccccccccccccc:,</text>
-      <text x="40" y="267">cccccccc;.:odl:.;cccccccccccccc:,.</text>
-      <text x="40" y="282">:cccccccccccccccccccccccccccc:'.</text>
-      <text x="40" y="297">.:cccccccccccccccccccccc:;,..</text>
-      <text x="40" y="312">  '::cccccccccccccc::;,.</text>
-    </g>
-    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#3C6EB4">OS: Fedora</text>
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.4000;0.4000;0.6000;1" values="0;0;1;0;0"/>
+    <rect x="80" y="120" width="200" height="200" rx="44" fill="url(#grad2)"/>
+    <rect x="80.75" y="120.75" width="198.5" height="198.5" rx="43" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+    <circle cx="180" cy="220" r="64" fill="#ffffff" opacity="0.14"/><text x="180" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Arial, sans-serif" font-size="120" font-weight="700" fill="#ffffff">f</text>
+    <text x="330" y="190" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="600" fill="#f5f5f7">Fedora</text>
+    <text x="330" y="222" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" fill="#86868b">pal404error@github</text>
+    <rect x="330" y="240" width="120" height="4" rx="2" fill="url(#grad2)"/>
   </g>
   <g opacity="0">
-    <animate attributeName="opacity" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.7500;0.7500;1.0000;1" values="0;0;1;0;0"/>
-    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#00A4EF" xml:space="preserve">
-      <text x="40" y="42">        ,.=:!!t3Z3z.,</text>
-      <text x="40" y="57">       :tt:::tt333EE3</text>
-      <text x="40" y="72">       Et:::ztt33EEEL @Ee.,      ..,</text>
-      <text x="40" y="87">      ;tt:::tt333EE7 ;EEEEEEttttt33#</text>
-      <text x="40" y="102">     :Et:::zt333EEQ. $EEEEEttttt33QL</text>
-      <text x="40" y="117">     it::::tt333EEF @EEEEEEttttt33F</text>
-      <text x="40" y="132">    ;3=*^```"*4EEV :EEEEEEttttt33@.</text>
-      <text x="40" y="147">    ,.=::::!t=., ` @EEEEEEtttz33QF</text>
-      <text x="40" y="162">   ;::::::::zt33)   "4EEEtttji3P*</text>
-      <text x="40" y="177">  :t::::::::tt33.:Z3z..  `` ,..g.</text>
-      <text x="40" y="192">  i::::::::zt33F AEEEtttt::::ztF</text>
-      <text x="40" y="207"> ;:::::::::t33V ;EEEttttt::::t3</text>
-      <text x="40" y="222"> E::::::::zt33L @EEEtttt::::z3F</text>
-      <text x="40" y="237">{3=*^```"*4E3) ;EEEtttt:::::tZ`</text>
-      <text x="40" y="252">             ` :EEEEtttt::::z7</text>
-      <text x="40" y="267">                 "VEzjt:;;z&gt;*`</text>
-    </g>
-    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#00A4EF">OS: Windows</text>
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.6000;0.6000;0.8000;1" values="0;0;1;0;0"/>
+    <rect x="80" y="120" width="200" height="200" rx="44" fill="url(#grad3)"/>
+    <rect x="80.75" y="120.75" width="198.5" height="198.5" rx="43" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+    <rect x="105" y="145" width="70" height="70" rx="12" fill="#ffffff"/><rect x="185" y="145" width="70" height="70" rx="12" fill="#ffffff"/><rect x="105" y="225" width="70" height="70" rx="12" fill="#ffffff"/><rect x="185" y="225" width="70" height="70" rx="12" fill="#ffffff"/>
+    <text x="330" y="190" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="600" fill="#f5f5f7">Windows</text>
+    <text x="330" y="222" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" fill="#86868b">pal404error@github</text>
+    <rect x="330" y="240" width="120" height="4" rx="2" fill="url(#grad3)"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25.0s" repeatCount="indefinite" keyTimes="0;0.8000;0.8000;1.0000;1" values="0;0;1;0;0"/>
+    <rect x="80" y="120" width="200" height="200" rx="44" fill="url(#grad4)"/>
+    <rect x="80.75" y="120.75" width="198.5" height="198.5" rx="43" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+    <text x="180" y="278" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Arial, sans-serif" font-size="165" font-weight="800" fill="#ffffff">A</text>
+    <text x="330" y="190" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="600" fill="#f5f5f7">Arch</text>
+    <text x="330" y="222" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" fill="#86868b">pal404error@github</text>
+    <rect x="330" y="240" width="120" height="4" rx="2" fill="url(#grad4)"/>
   </g>
 
-  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" xml:space="preserve">
-    <text x="470" y="48" fill="#f5f5f7">pal404error<tspan fill="#86868b">@github</tspan></text>
-    <text x="470" y="68" fill="#86868b">----------------</text>
-    <text x="470" y="120"><tspan fill="url(#key)">Host</tspan><tspan fill="#f5f5f7">: github.com</tspan></text>
-    <text x="470" y="141"><tspan fill="url(#key)">Uptime</tspan><tspan fill="#f5f5f7">: 5y 135d</tspan></text>
-    <text x="470" y="162"><tspan fill="url(#key)">Followers</tspan><tspan fill="#f5f5f7">: 22</tspan></text>
-    <text x="470" y="183"><tspan fill="url(#key)">Following</tspan><tspan fill="#f5f5f7">: 35</tspan></text>
-    <text x="470" y="204"><tspan fill="url(#key)">Repos</tspan><tspan fill="#f5f5f7">: 50</tspan></text>
-    <text x="470" y="225"><tspan fill="url(#key)">Stars</tspan><tspan fill="#f5f5f7">: 187</tspan></text>
-    <text x="470" y="246"><tspan fill="url(#key)">Top Lang</tspan><tspan fill="#f5f5f7">: JavaScript</tspan></text>
-    <text x="470" y="267"><tspan fill="url(#key)">Joined</tspan><tspan fill="#f5f5f7">: 2021-04-09</tspan></text>
-    <text x="470" y="288"><tspan fill="url(#key)">Last Active</tspan><tspan fill="#f5f5f7">: 2026-07-17</tspan></text>
-  </g></svg>
+  <text x="330" y="300" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Uptime</text>
+  <text x="900" y="300" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">5y 135d</text>
+  <text x="330" y="340" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Followers</text>
+  <text x="900" y="340" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">22</text>
+  <text x="330" y="380" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Following</text>
+  <text x="900" y="380" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">35</text>
+  <text x="330" y="420" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Public Repos</text>
+  <text x="900" y="420" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">50</text>
+  <text x="330" y="460" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Total Stars</text>
+  <text x="900" y="460" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">187</text>
+  <text x="330" y="500" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Top Language</text>
+  <text x="900" y="500" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">JavaScript</text>
+  <text x="330" y="540" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Joined</text>
+  <text x="900" y="540" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">2021-04-09</text>
+  <text x="330" y="580" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="16" fill="#98989d">Last Active</text>
+  <text x="900" y="580" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="500" fill="#f5f5f7">2026-07-17</text>
+</svg>
