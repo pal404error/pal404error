@@ -1,6 +1,5 @@
-<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=34&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=520&height=60&lines=PAL404ERROR;Developer+%E2%80%A2+Builder+%E2%80%A2+Writer" alt="Typing SVG" />
+  <img src="assets/hero.svg" alt="PAL404ERROR" width="100%" />
 </p>
 
 <p align="center">
