@@ -29,9 +29,42 @@
 
 <br>
 
-<p align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="neofetch" />
-</p>
+<!-- NEOMONO_START -->
+```text
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+
+pal404error@arch
+----------------
+OS         : Arch Linux x86_64
+Host       : github.com
+Uptime     : 5y 135d
+Followers  : 22
+Following  : 35
+Repos      : 50
+Stars      : 187
+Top Lang   : JavaScript
+Joined     : 2021-04-09
+Last Active: 2026-07-17
+```
+<!-- NEOMONO_END -->
 
 <br>
 

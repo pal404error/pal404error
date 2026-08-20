@@ -14,15 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate dynamic neofetch
+      - name: Generate ASCII neofetch block
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/gen_neofetch.py
+        run: python3 .github/scripts/gen_readme.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/neofetch.svg
-          git diff --cached --quiet || git commit -m "chore: auto-update neofetch with live GitHub metrics"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: auto-update README ascii block with live GitHub metrics"
           git push
