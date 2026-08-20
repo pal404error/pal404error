@@ -40,82 +40,20 @@ kv = [
     ("Last Active", updated),
 ]
 
-arch_logo = [
-    "                   -",
-    "                  .o+`",
-    "                 `ooo/",
-    "                `+oooo:",
-    "               `+oooooo:",
-    "               -+oooooo+:",
-    "             `/:-:++oooo+:",
-    "            `/++++/+++++++:",
-    "           `/++++++++++++++:",
-    "          `/+++ooooooooooooo/`",
-    "         ./ooosssso++osssssso+`",
-    "        .oossssso-````/ossssss+`",
-    "       -osssssso.      :ssssssso.",
-    "      :osssssss/        osssso+++.`",
-    "     /ossssssss/        +ssssoooo/-",
-    "   `/ossssso+/:-        -:/+osssso+-",
-    "  `+sso+:-`   `-/ooooo+/::::::::",
-    " `++:.`                       `.-/+",
-    " .`",
-]
+def esc(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-def g_arch():
-    lines = "\n".join(f'      <text x="40" y="{44 + i * 16}">{l}</text>' for i, l in enumerate(arch_logo))
-    return f'    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="url(#lg)" xml:space="preserve">\n{lines}\n    </g>'
-
-def g_apple():
-    return (
-        '    <g>'
-        '      <path d="M200,92 C172,82 142,104 137,154 C133,194 152,238 197,252 C202,254 208,254 213,252 '
-        'C258,238 277,194 273,154 C269,112 242,86 217,96 C212,82 206,84 200,92 Z" fill="#f5f5f7"/>'
-        '      <path d="M204,90 C206,72 216,62 228,64 C226,80 216,92 204,90 Z" fill="#f5f5f7"/>'
-        '      <circle cx="252" cy="150" r="22" fill="#0a0a0c"/>'
-        '    </g>'
-    )
-
-def g_windows():
-    return (
-        '    <g>'
-        '      <rect x="150" y="112" width="46" height="46" rx="4" fill="#F25022"/>'
-        '      <rect x="206" y="112" width="46" height="46" rx="4" fill="#7FBA00"/>'
-        '      <rect x="150" y="168" width="46" height="46" rx="4" fill="#00A4EF"/>'
-        '      <rect x="206" y="168" width="46" height="46" rx="4" fill="#FFB900"/>'
-        '    </g>'
-    )
-
-def g_ubuntu(c):
-    return (
-        f'    <g fill="none" stroke="{c}" stroke-width="13">'
-        f'      <circle cx="200" cy="178" r="68"/>'
-        f'      <circle cx="200" cy="178" r="38"/>'
-        f'    </g>'
-        f'    <g fill="{c}">'
-        f'      <circle cx="200" cy="110" r="9"/>'
-        f'      <circle cx="200" cy="246" r="9"/>'
-        f'      <circle cx="132" cy="178" r="9"/>'
-        f'      <circle cx="268" cy="178" r="9"/>'
-        f'    </g>'
-    )
-
-def g_fedora(c):
-    return (
-        f'    <g>'
-        f'      <circle cx="200" cy="178" r="70" fill="{c}"/>'
-        f'      <text x="200" y="212" text-anchor="middle" font-family="Arial, sans-serif" '
-        f'font-size="86" font-weight="700" fill="#ffffff">f</text>'
-        f'    </g>'
-    )
-
+# Real neofetch ASCII art fetched from the neofetch source, one file per distro.
 oses = [
-    {"name": "Arch Linux", "accent": "#00F0FF", "logo": g_arch()},
-    {"name": "macOS",      "accent": "#f5f5f7", "logo": g_apple()},
-    {"name": "Ubuntu",     "accent": "#E95420", "logo": g_ubuntu("#E95420")},
-    {"name": "Windows",    "accent": "#00A4EF", "logo": g_windows()},
-    {"name": "Fedora",     "accent": "#3C6EB4", "logo": g_fedora("#3C6EB4")},
+    {"file": ".github/ascii/arch.txt",    "name": "Arch Linux", "accent": "#00F0FF"},
+    {"file": ".github/ascii/ubuntu.txt",  "name": "Ubuntu",      "accent": "#E95420"},
+    {"file": ".github/ascii/fedora.txt",  "name": "Fedora",      "accent": "#3C6EB4"},
+    {"file": ".github/ascii/windows.txt", "name": "Windows",     "accent": "#00A4EF"},
 ]
+
+def load_art(path):
+    with open(path, encoding="utf-8") as f:
+        return [l.rstrip("\n") for l in f]
 
 N = len(oses)
 slot = 5.0
@@ -123,15 +61,20 @@ total = N * slot
 
 os_groups = ""
 for i, o in enumerate(oses):
+    art = load_art(o["file"])
     a = i * slot / total
     b = (i + 1) * slot / total
     keytimes = f"0;{a:.4f};{a:.4f};{b:.4f};1"
-    init_op = "1" if i == 0 else "0"
+    init = "1" if i == 0 else "0"
+    lines_svg = "\n".join(
+        f'      <text x="40" y="{42 + k * 15}">{esc(ln)}</text>' for k, ln in enumerate(art)
+    )
     os_groups += (
-        f'  <g opacity="{init_op}">\n'
+        f'  <g opacity="{init}">\n'
         f'    <animate attributeName="opacity" dur="{total:.1f}s" repeatCount="indefinite" '
         f'keyTimes="{keytimes}" values="0;0;1;0;0"/>\n'
-        f'    {o["logo"]}\n'
+        f'    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" '
+        f'fill="{o["accent"]}" xml:space="preserve">\n{lines_svg}\n    </g>\n'
         f'    <text x="470" y="96" font-family="ui-monospace, Menlo, Consolas, monospace" '
         f'font-size="15" fill="{o["accent"]}">OS: {o["name"]}</text>\n'
         f'  </g>\n'
@@ -150,10 +93,6 @@ kv_svg += '  </g>'
 
 svg = f'''<svg width="1000" height="380" viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neofetch">
   <defs>
-    <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#00F0FF"/>
-      <stop offset="1" stop-color="#A855F7"/>
-    </linearGradient>
     <linearGradient id="key" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#2997ff"/>
       <stop offset="1" stop-color="#A855F7"/>
@@ -169,4 +108,4 @@ svg = f'''<svg width="1000" height="380" viewBox="0 0 1000 380" xmlns="http://ww
 with open("assets/neofetch.svg", "w", encoding="utf-8") as f:
     f.write(svg)
 
-print("animated neofetch generated -> os_count=%d cycle=%.1fs metrics stars=%d repos=%d" % (N, total, total_stars, user["public_repos"]))
+print(f"real neofetch generated -> os_count={N} cycle={total:.1f}s stars={total_stars} repos={user['public_repos']}")
