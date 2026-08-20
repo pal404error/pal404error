@@ -18,6 +18,18 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/stars/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/last-commit/pal404error/pal404error?style=for-the-badge&logo=git&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/commit-activity/pal404error/pal404error?style=for-the-badge&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/issues/pal404error/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/pulls/pal404error/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
+  <img src="https://img.shields.io/github/repo-size/pal404error/pal404error?style=for-the-badge&color=000000&labelColor=1d1d1f" />
+</p>
+
+<br>
+
+<p align="center">
   <img src="assets/neofetch.svg" width="100%" alt="neofetch" />
 </p>
 
