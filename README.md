@@ -65,6 +65,16 @@ Joined     : 2021-04-09
 Last Active: 2026-07-17
 ```
 <!-- NEOMONO_END -->
+## Latest Writing
+
+<!-- BLOGS_START -->
+- [Silicon Valley Is Shredding Our History to Feed the AI Beast](https://pal404blog.github.io/silicon-valley-is-shredding-our-history-to-feed-the-ai-beast) — 2026-08-21
+- [Automating AWS EC2 with Ansible: A Beginner's Guide](https://pal404blog.github.io/Automating-AWS-EC2-with-Ansible-A-Beginners-Guide) — 2024-03-28
+- [Why Docker is important in your projects](https://pal404blog.github.io/Why-Docker-is-important-in-your-projects) — 2023-07-14
+- [Why ChatGPT is dumber now ?](https://pal404blog.github.io/Why-ChatGPT-is-dumber-now) — 2023-04-29
+- [ GPT-4 and Prompt AI in 2023](https://pal404blog.github.io/GPT-4-and-Prompt-AI-in-2023) — 2023-03-25
+<!-- BLOGS_END -->
+
 
 <br>
 
