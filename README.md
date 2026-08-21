@@ -1,30 +1,23 @@
+<!-- ===================== PAL404ERROR — CYBERPUNK PROFILE ===================== -->
+<!-- Powered by: readme-typing-svg, github-readme-stats, streak-stats,
+     github-readme-activity-graph, skillicons.dev, komarev visitor badge.
+     The NEOMONO + BLOGS marker blocks are auto-maintained by workflows. -->
+
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="PAL404ERROR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Pal;Startup+Enthusiast;Developer+%26+Blogger;Writing+what+others+are+afraid+to+say" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="http://pal404error.tk/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://twitter.com/pal404error"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge=Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pal404blog.github.io/"><img src="https://img.shields.io/badge/Blog-00F0FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
+  <a href="https://twitter.com/pal404error"><img src="https://img.shields.io/badge/Twitter-00F0FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/pal404error/"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFB13B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
 </p>
 
-<br>
-
 <p align="center">
-  <b>Startup enthusiast. Writing what others are afraid to say.</b><br>
-  <sub>Currently focused on my craft — shipping, breaking, learning.</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/stars/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/last-commit/pal404error/pal404error?style=for-the-badge&logo=git&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/commit-activity/pal404error/pal404error?style=for-the-badge&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/issues/pal404error/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/pulls/pal404error/pal404error?style=for-the-badge&logo=github&color=000000&labelColor=1d1d1f" />
-  <img src="https://img.shields.io/github/repo-size/pal404error/pal404error?style=for-the-badge&color=000000&labelColor=1d1d1f" />
+  <img src="https://komarev.com/ghpvc/?username=pal404error&color=00F0FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pal404error?style=flat-square&logo=github&color=00F0FF&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pal404error?style=flat-square&logo=github&color=A855F7&labelColor=0d1117" alt="Stars"/>
 </p>
 
 <br>
@@ -65,29 +58,55 @@ Joined     : 2021-04-09
 Last Active: 2026-07-17
 ```
 <!-- NEOMONO_END -->
-## Latest Writing
-
-<!-- BLOGS_START -->
-- [Silicon Valley Is Shredding Our History to Feed the AI Beast](https://pal404blog.github.io/silicon-valley-is-shredding-our-history-to-feed-the-ai-beast) — 2026-08-21
-- [Stop Installing Heavy Packages for Stuff the Web Already Does](https://pal404blog.github.io/stop-installing-heavy-packages-for-stuff-the-web-already-does) — 2026-08-21
-- [Automating AWS EC2 with Ansible: A Beginner's Guide](https://pal404blog.github.io/Automating-AWS-EC2-with-Ansible-A-Beginners-Guide) — 2024-03-28
-- [Why Docker is important in your projects](https://pal404blog.github.io/Why-Docker-is-important-in-your-projects) — 2023-07-14
-- [Why ChatGPT is dumber now ?](https://pal404blog.github.io/Why-ChatGPT-is-dumber-now) — 2023-04-29
-<!-- BLOGS_END -->
-
 
 <br>
 
-## What I work with
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pal404error&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal404error&theme=tokyonight&layout=compact&hide_border=true" height="180" alt="top langs"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pal404error&theme=tokyonight&hide_border=true" height="180" alt="streak"/>
+</p>
+
+<br>
+
+## 🌐 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pal404error&theme=tokyonight&hide_border=true&area=true&custom_color=00F0FF" alt="activity graph"/>
+</p>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,docker,linux,git,bash,vim,arch&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,docker,linux,git,bash,vim,arch&theme=dark&perline=10" alt="tech stack"/>
   </a>
 </p>
 
+<br>
+
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pal404error&label=VISITORS&color=000000&style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pal404error&repo=TouchGreen&theme=tokyonight&hide_border=true" height="140" alt="TouchGreen"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pal404error&repo=bingeee&theme=tokyonight&hide_border=true" height="140" alt="bingeee"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pal404blog&repo=pal404blog.github.io&theme=tokyonight&hide_border=true" height="140" alt="pal404blog"/>
 </p>
+
+<br>
+
+## ✍️ Latest Writing
+
+<!-- BLOGS_START -->
+<!-- filled automatically by blog-automation -->
+<!-- BLOGS_END -->
+
+<br>
 
 <p align="center"><sub>“Keep breaking things, keep fixing them.”</sub></p>
