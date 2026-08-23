@@ -49,7 +49,7 @@ pal404error@arch
 OS         : Arch Linux x86_64
 Host       : github.com
 Uptime     : 5y 137d
-Followers  : 23
+Followers  : 25
 Following  : 35
 Repos      : 51
 Stars      : 187
