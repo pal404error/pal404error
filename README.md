@@ -127,11 +127,11 @@ Last Active: 2026-07-17
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=45395" width="160" alt="Meta Wants to Be Your Best Friend, And Honestly? It's Creepy"></td><td valign="top"><b><a href="https://pal404blog.github.io/meta-wants-to-be-your-best-friend-and-honestly-it-s-creepy">Meta Wants to Be Your Best Friend, And Honestly? It's Creepy</a></b><br><sub>2026-09-09</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=58051" width="160" alt="Mistral Just Bagged €3B to Prove Europe Isn't Completely Irrelevant in AI"></td><td valign="top"><b><a href="https://pal404blog.github.io/mistral-just-bagged-3b-to-prove-europe-isn-t-completely-irrelevant-in-ai">Mistral Just Bagged €3B to Prove Europe Isn't Completely Irrelevant in AI</a></b><br><sub>2026-09-08</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/dev?lock=49548" width="160" alt="Your LG TV Is Listening When It's Off, And Frankly, You Deserve It"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-lg-tv-is-listening-when-it-s-off-and-frankly-you-deserve-it">Your LG TV Is Listening When It's Off, And Frankly, You Deserve It</a></b><br><sub>2026-09-07</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=68538" width="160" alt="Welcome to the Machine's Echo Chamber: Inside the OpenAI Agent Message Board"></td><td valign="top"><b><a href="https://pal404blog.github.io/welcome-to-the-machine-s-echo-chamber-inside-the-openai-agent-message-board">Welcome to the Machine's Echo Chamber: Inside the OpenAI Agent Message Board</a></b><br><sub>2026-09-06</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/gpt?lock=49163" width="160" alt="GPT-6 Astra is Here, and We’re Officially Out of Sci-Fi Excuses"></td><td valign="top"><b><a href="https://pal404blog.github.io/gpt-6-astra-is-here-and-we-re-officially-out-of-sci-fi-excuses">GPT-6 Astra is Here, and We’re Officially Out of Sci-Fi Excuses</a></b><br><sub>2026-09-05</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/cyber?lock=87660" width="160" alt="Google Put a Gun in Gemini’s Hand and Called It ‘Cyber’"></td><td valign="top"><b><a href="https://pal404blog.github.io/google-put-a-gun-in-gemini-s-hand-and-called-it-cyber">Google Put a Gun in Gemini’s Hand and Called It ‘Cyber’</a></b><br><sub>2026-09-03</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
