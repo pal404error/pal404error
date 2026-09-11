@@ -127,11 +127,11 @@ Last Active: 2026-07-17
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=24929" width="160" alt="Why Are Mathematicians Still Handing Their Best Secrets to OpenAI?"></td><td valign="top"><b><a href="https://pal404blog.github.io/why-are-mathematicians-still-handing-their-best-secrets-to-openai">Why Are Mathematicians Still Handing Their Best Secrets to OpenAI?</a></b><br><sub>2026-09-11</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=1568" width="160" alt="Shopify Just Bought Tailwind, and Web Dev Purists Are Losing Their Minds"></td><td valign="top"><b><a href="https://pal404blog.github.io/shopify-just-bought-tailwind-and-web-dev-purists-are-losing-their-minds">Shopify Just Bought Tailwind, and Web Dev Purists Are Losing Their Minds</a></b><br><sub>2026-09-10</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=45395" width="160" alt="Meta Wants to Be Your Best Friend, And Honestly? It's Creepy"></td><td valign="top"><b><a href="https://pal404blog.github.io/meta-wants-to-be-your-best-friend-and-honestly-it-s-creepy">Meta Wants to Be Your Best Friend, And Honestly? It's Creepy</a></b><br><sub>2026-09-09</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=58051" width="160" alt="Mistral Just Bagged €3B to Prove Europe Isn't Completely Irrelevant in AI"></td><td valign="top"><b><a href="https://pal404blog.github.io/mistral-just-bagged-3b-to-prove-europe-isn-t-completely-irrelevant-in-ai">Mistral Just Bagged €3B to Prove Europe Isn't Completely Irrelevant in AI</a></b><br><sub>2026-09-08</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/dev?lock=49548" width="160" alt="Your LG TV Is Listening When It's Off, And Frankly, You Deserve It"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-lg-tv-is-listening-when-it-s-off-and-frankly-you-deserve-it">Your LG TV Is Listening When It's Off, And Frankly, You Deserve It</a></b><br><sub>2026-09-07</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=68538" width="160" alt="Welcome to the Machine's Echo Chamber: Inside the OpenAI Agent Message Board"></td><td valign="top"><b><a href="https://pal404blog.github.io/welcome-to-the-machine-s-echo-chamber-inside-the-openai-agent-message-board">Welcome to the Machine's Echo Chamber: Inside the OpenAI Agent Message Board</a></b><br><sub>2026-09-06</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
