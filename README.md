@@ -127,11 +127,11 @@ Last Active: 2026-07-17
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=22005" width="160" alt="The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-bots-knew-about-the-rubygems-hack-while-we-were-all-singing-kumbaya">The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya</a></b><br><sub>2026-09-15</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=4876" width="160" alt="Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format"></td><td valign="top"><b><a href="https://pal404blog.github.io/let-it-die-why-jpeg-xl-is-tech-s-most-overrated-zombie-format">Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format</a></b><br><sub>2026-09-14</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=93210" width="160" alt="Let's Be Honest: You Want a Moratorium on AI So You Can Catch Up"></td><td valign="top"><b><a href="https://pal404blog.github.io/let-s-be-honest-you-want-a-moratorium-on-ai-so-you-can-catch-up">Let's Be Honest: You Want a Moratorium on AI So You Can Catch Up</a></b><br><sub>2026-09-13</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=83221" width="160" alt="Math Doesn't Care About Your Loss Function"></td><td valign="top"><b><a href="https://pal404blog.github.io/math-doesn-t-care-about-your-loss-function">Math Doesn't Care About Your Loss Function</a></b><br><sub>2026-09-12</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=24929" width="160" alt="Why Are Mathematicians Still Handing Their Best Secrets to OpenAI?"></td><td valign="top"><b><a href="https://pal404blog.github.io/why-are-mathematicians-still-handing-their-best-secrets-to-openai">Why Are Mathematicians Still Handing Their Best Secrets to OpenAI?</a></b><br><sub>2026-09-11</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=1568" width="160" alt="Shopify Just Bought Tailwind, and Web Dev Purists Are Losing Their Minds"></td><td valign="top"><b><a href="https://pal404blog.github.io/shopify-just-bought-tailwind-and-web-dev-purists-are-losing-their-minds">Shopify Just Bought Tailwind, and Web Dev Purists Are Losing Their Minds</a></b><br><sub>2026-09-10</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
