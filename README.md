@@ -127,11 +127,11 @@ Last Active: 2026-07-17
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=36321" width="160" alt="Cloudflare’s Clef Proves Silicon Valley’s Favorite AI Business Model is Built on QuickSand"></td><td valign="top"><b><a href="https://pal404blog.github.io/cloudflare-s-clef-proves-silicon-valley-s-favorite-ai-business-model-is-built-on-quicksand">Cloudflare’s Clef Proves Silicon Valley’s Favorite AI Business Model is Built on QuickSand</a></b><br><sub>2026-10-02</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=19612" width="160" alt="We Tried to Build AI Before We Even Knew How Our Own Brains Work"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-tried-to-build-ai-before-we-even-knew-how-our-own-brains-work">We Tried to Build AI Before We Even Knew How Our Own Brains Work</a></b><br><sub>2026-10-01</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=22005" width="160" alt="The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-bots-knew-about-the-rubygems-hack-while-we-were-all-singing-kumbaya">The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya</a></b><br><sub>2026-09-15</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=4876" width="160" alt="Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format"></td><td valign="top"><b><a href="https://pal404blog.github.io/let-it-die-why-jpeg-xl-is-tech-s-most-overrated-zombie-format">Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format</a></b><br><sub>2026-09-14</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=93210" width="160" alt="Let's Be Honest: You Want a Moratorium on AI So You Can Catch Up"></td><td valign="top"><b><a href="https://pal404blog.github.io/let-s-be-honest-you-want-a-moratorium-on-ai-so-you-can-catch-up">Let's Be Honest: You Want a Moratorium on AI So You Can Catch Up</a></b><br><sub>2026-09-13</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=83221" width="160" alt="Math Doesn't Care About Your Loss Function"></td><td valign="top"><b><a href="https://pal404blog.github.io/math-doesn-t-care-about-your-loss-function">Math Doesn't Care About Your Loss Function</a></b><br><sub>2026-09-12</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
