@@ -127,11 +127,11 @@ Last Active: 2026-07-17
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/linux?lock=60648" width="160" alt="Valve Is Humiliating AMD in Their Own Backyard"></td><td valign="top"><b><a href="https://pal404blog.github.io/valve-is-humiliating-amd-in-their-own-backyard">Valve Is Humiliating AMD in Their Own Backyard</a></b><br><sub>2026-10-04</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=14189" width="160" alt="Utah Just Learned You Can't Subpoena the Laws of Mathematics"></td><td valign="top"><b><a href="https://pal404blog.github.io/utah-just-learned-you-can-t-subpoena-the-laws-of-mathematics">Utah Just Learned You Can't Subpoena the Laws of Mathematics</a></b><br><sub>2026-10-03</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=36321" width="160" alt="Cloudflare’s Clef Proves Silicon Valley’s Favorite AI Business Model is Built on QuickSand"></td><td valign="top"><b><a href="https://pal404blog.github.io/cloudflare-s-clef-proves-silicon-valley-s-favorite-ai-business-model-is-built-on-quicksand">Cloudflare’s Clef Proves Silicon Valley’s Favorite AI Business Model is Built on QuickSand</a></b><br><sub>2026-10-02</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=19612" width="160" alt="We Tried to Build AI Before We Even Knew How Our Own Brains Work"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-tried-to-build-ai-before-we-even-knew-how-our-own-brains-work">We Tried to Build AI Before We Even Knew How Our Own Brains Work</a></b><br><sub>2026-10-01</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=22005" width="160" alt="The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-bots-knew-about-the-rubygems-hack-while-we-were-all-singing-kumbaya">The Bots Knew About the RubyGems Hack While We Were All Singing Kumbaya</a></b><br><sub>2026-09-15</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=4876" width="160" alt="Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format"></td><td valign="top"><b><a href="https://pal404blog.github.io/let-it-die-why-jpeg-xl-is-tech-s-most-overrated-zombie-format">Let It Die: Why JPEG XL Is Tech’s Most Overrated Zombie Format</a></b><br><sub>2026-09-14</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
