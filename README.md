@@ -127,11 +127,11 @@ Last Active: 2026-10-05
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/cloud?lock=14971" width="160" alt="Cloudflare Buying Deno is the Best Worst Thing to Happen to JS"></td><td valign="top"><b><a href="https://pal404blog.github.io/cloudflare-buying-deno-is-the-best-worst-thing-to-happen-to-js">Cloudflare Buying Deno is the Best Worst Thing to Happen to JS</a></b><br><sub>2026-10-10</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/data?lock=86966" width="160" alt="Your Coffee Maker Doesn't Need Wi-Fi, You Idiot"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-coffee-maker-doesn-t-need-wi-fi-you-idiot">Your Coffee Maker Doesn't Need Wi-Fi, You Idiot</a></b><br><sub>2026-10-09</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=52689" width="160" alt="Claude Haiku 5.5 Proves Everyone Else is Just Bloatware"></td><td valign="top"><b><a href="https://pal404blog.github.io/claude-haiku-5-5-proves-everyone-else-is-just-bloatware">Claude Haiku 5.5 Proves Everyone Else is Just Bloatware</a></b><br><sub>2026-10-08</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=12758" width="160" alt="Relax, Math Geeks: AI is Just Doing Your Homework"></td><td valign="top"><b><a href="https://pal404blog.github.io/relax-math-geeks-ai-is-just-doing-your-homework">Relax, Math Geeks: AI is Just Doing Your Homework</a></b><br><sub>2026-10-07</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=59248" width="160" alt="Reflection’s Beam 501B is proof that the open-source AI cult needs to touch grass"></td><td valign="top"><b><a href="https://pal404blog.github.io/reflection-s-beam-501b-is-proof-that-the-open-source-ai-cult-needs-to-touch-grass">Reflection’s Beam 501B is proof that the open-source AI cult needs to touch grass</a></b><br><sub>2026-10-06</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/data?lock=93471" width="160" alt="Denmark’s 8.8 Million CPR Leak Proves Centralized Digital Utopias Are a Trap"></td><td valign="top"><b><a href="https://pal404blog.github.io/denmark-s-8-8-million-cpr-leak-proves-centralized-digital-utopias-are-a-trap">Denmark’s 8.8 Million CPR Leak Proves Centralized Digital Utopias Are a Trap</a></b><br><sub>2026-10-05</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
