@@ -127,11 +127,11 @@ Last Active: 2026-10-05
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=29465" width="160" alt="How Amazon Turns the Whole Internet Into an Expensive Joke"></td><td valign="top"><b><a href="https://pal404blog.github.io/how-amazon-turns-the-whole-internet-into-an-expensive-joke">How Amazon Turns the Whole Internet Into an Expensive Joke</a></b><br><sub>2026-10-15</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/crypto?lock=55358" width="160" alt="Ledger's \"Spy Chip\" Fiasco Proves Cold Storage Was Always a Lie"></td><td valign="top"><b><a href="https://pal404blog.github.io/ledger-s-spy-chip-fiasco-proves-cold-storage-was-always-a-lie">Ledger's \"Spy Chip\" Fiasco Proves Cold Storage Was Always a Lie</a></b><br><sub>2026-10-14</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=88149" width="160" alt="The Great Dairy Meltdown: Why Your Fridge Didn't Need an IP Address"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-great-dairy-meltdown-why-your-fridge-didn-t-need-an-ip-address">The Great Dairy Meltdown: Why Your Fridge Didn't Need an IP Address</a></b><br><sub>2026-10-13</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/llm?lock=67895" width="160" alt="The Great LLM Literacy Divide Is Tearing Us Apart"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-great-llm-literacy-divide-is-tearing-us-apart">The Great LLM Literacy Divide Is Tearing Us Apart</a></b><br><sub>2026-10-12</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=8481" width="160" alt="Stop Renting Other People's Brains: Build Your Own Decision Model"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-renting-other-people-s-brains-build-your-own-decision-model">Stop Renting Other People's Brains: Build Your Own Decision Model</a></b><br><sub>2026-10-11</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/cloud?lock=14971" width="160" alt="Cloudflare Buying Deno is the Best Worst Thing to Happen to JS"></td><td valign="top"><b><a href="https://pal404blog.github.io/cloudflare-buying-deno-is-the-best-worst-thing-to-happen-to-js">Cloudflare Buying Deno is the Best Worst Thing to Happen to JS</a></b><br><sub>2026-10-10</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
