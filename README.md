@@ -127,11 +127,11 @@ Last Active: 2026-10-05
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=85465" width="160" alt="Your Architecture Diagrams Look Like Garbage (And Pele Might Actually Save You)"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-architecture-diagrams-look-like-garbage-and-pele-might-actually-save-you">Your Architecture Diagrams Look Like Garbage (And Pele Might Actually Save You)</a></b><br><sub>2026-10-18</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=27360" width="160" alt="The AI Benchmark Circus is a Trillion-Dollar Delusion"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-ai-benchmark-circus-is-a-trillion-dollar-delusion">The AI Benchmark Circus is a Trillion-Dollar Delusion</a></b><br><sub>2026-10-17</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/neural?lock=33095" width="160" alt="We're Sanitizing AI, and It's Going to Ruin the Fun"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-re-sanitizing-ai-and-it-s-going-to-ruin-the-fun">We're Sanitizing AI, and It's Going to Ruin the Fun</a></b><br><sub>2026-10-16</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=29465" width="160" alt="How Amazon Turns the Whole Internet Into an Expensive Joke"></td><td valign="top"><b><a href="https://pal404blog.github.io/how-amazon-turns-the-whole-internet-into-an-expensive-joke">How Amazon Turns the Whole Internet Into an Expensive Joke</a></b><br><sub>2026-10-15</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/crypto?lock=55358" width="160" alt="Ledger's \"Spy Chip\" Fiasco Proves Cold Storage Was Always a Lie"></td><td valign="top"><b><a href="https://pal404blog.github.io/ledger-s-spy-chip-fiasco-proves-cold-storage-was-always-a-lie">Ledger's \"Spy Chip\" Fiasco Proves Cold Storage Was Always a Lie</a></b><br><sub>2026-10-14</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=88149" width="160" alt="The Great Dairy Meltdown: Why Your Fridge Didn't Need an IP Address"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-great-dairy-meltdown-why-your-fridge-didn-t-need-an-ip-address">The Great Dairy Meltdown: Why Your Fridge Didn't Need an IP Address</a></b><br><sub>2026-10-13</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
