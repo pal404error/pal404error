@@ -127,11 +127,11 @@ Last Active: 2026-10-05
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/programming?lock=12706" width="160" alt="Stop Apologizing for Actually Liking Code"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-apologizing-for-actually-liking-code">Stop Apologizing for Actually Liking Code</a></b><br><sub>2026-10-20</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/software?lock=31084" width="160" alt="We Sanitized the Soul Right Out of Software"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-sanitized-the-soul-right-out-of-software">We Sanitized the Soul Right Out of Software</a></b><br><sub>2026-10-19</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=85465" width="160" alt="Your Architecture Diagrams Look Like Garbage (And Pele Might Actually Save You)"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-architecture-diagrams-look-like-garbage-and-pele-might-actually-save-you">Your Architecture Diagrams Look Like Garbage (And Pele Might Actually Save You)</a></b><br><sub>2026-10-18</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=27360" width="160" alt="The AI Benchmark Circus is a Trillion-Dollar Delusion"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-ai-benchmark-circus-is-a-trillion-dollar-delusion">The AI Benchmark Circus is a Trillion-Dollar Delusion</a></b><br><sub>2026-10-17</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/neural?lock=33095" width="160" alt="We're Sanitizing AI, and It's Going to Ruin the Fun"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-re-sanitizing-ai-and-it-s-going-to-ruin-the-fun">We're Sanitizing AI, and It's Going to Ruin the Fun</a></b><br><sub>2026-10-16</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=29465" width="160" alt="How Amazon Turns the Whole Internet Into an Expensive Joke"></td><td valign="top"><b><a href="https://pal404blog.github.io/how-amazon-turns-the-whole-internet-into-an-expensive-joke">How Amazon Turns the Whole Internet Into an Expensive Joke</a></b><br><sub>2026-10-15</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
