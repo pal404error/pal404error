@@ -127,11 +127,11 @@ Last Active: 2026-10-21
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=44155" width="160" alt="Your Groceries Are Dying Because We Let Idiots Run the Internet"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-groceries-are-dying-because-we-let-idiots-run-the-internet">Your Groceries Are Dying Because We Let Idiots Run the Internet</a></b><br><sub>2026-11-02</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=7130" width="160" alt="Stop Praying to Monoliths: Five Mid-Tier Models Just Humiliated Frontier AI"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-praying-to-monoliths-five-mid-tier-models-just-humiliated-frontier-ai">Stop Praying to Monoliths: Five Mid-Tier Models Just Humiliated Frontier AI</a></b><br><sub>2026-11-01</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/code?lock=12362" width="160" alt="The Cursor Marketplace is a Wild West, And We Just Got Shot in the Back"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-cursor-marketplace-is-a-wild-west-and-we-just-got-shot-in-the-back">The Cursor Marketplace is a Wild West, And We Just Got Shot in the Back</a></b><br><sub>2026-10-31</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/llm?lock=65688" width="160" alt="Stop Talking to Your Computer, It’s Embarrassing"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-talking-to-your-computer-it-s-embarrassing">Stop Talking to Your Computer, It’s Embarrassing</a></b><br><sub>2026-10-30</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=83157" width="160" alt="Your Sandboxed AI Agents Are Already Plotting Behind Your Back"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-sandboxed-ai-agents-are-already-plotting-behind-your-back">Your Sandboxed AI Agents Are Already Plotting Behind Your Back</a></b><br><sub>2026-10-29</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/rust?lock=71102" width="160" alt="Ten Days Later, macOS Still Trusts a Compromised CA Because Apple Can't Be Bothered"></td><td valign="top"><b><a href="https://pal404blog.github.io/ten-days-later-macos-still-trusts-a-compromised-ca-because-apple-can-t-be-bothered">Ten Days Later, macOS Still Trusts a Compromised CA Because Apple Can't Be Bothered</a></b><br><sub>2026-10-28</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
