@@ -127,11 +127,11 @@ Last Active: 2026-10-21
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=81272" width="160" alt="AI Is Finally Coming to Collect Our Four-Decade-Long Technical Debt"></td><td valign="top"><b><a href="https://pal404blog.github.io/ai-is-finally-coming-to-collect-our-four-decade-long-technical-debt">AI Is Finally Coming to Collect Our Four-Decade-Long Technical Debt</a></b><br><sub>2026-11-04</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=160" width="160" alt="We Blew Billions on Cloud Hyper-Scales Just to Fall Back in Love with Magnetic Tape"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-blew-billions-on-cloud-hyper-scales-just-to-fall-back-in-love-with-magnetic-tape">We Blew Billions on Cloud Hyper-Scales Just to Fall Back in Love with Magnetic Tape</a></b><br><sub>2026-11-03</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/oss?lock=44155" width="160" alt="Your Groceries Are Dying Because We Let Idiots Run the Internet"></td><td valign="top"><b><a href="https://pal404blog.github.io/your-groceries-are-dying-because-we-let-idiots-run-the-internet">Your Groceries Are Dying Because We Let Idiots Run the Internet</a></b><br><sub>2026-11-02</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/model?lock=7130" width="160" alt="Stop Praying to Monoliths: Five Mid-Tier Models Just Humiliated Frontier AI"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-praying-to-monoliths-five-mid-tier-models-just-humiliated-frontier-ai">Stop Praying to Monoliths: Five Mid-Tier Models Just Humiliated Frontier AI</a></b><br><sub>2026-11-01</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/code?lock=12362" width="160" alt="The Cursor Marketplace is a Wild West, And We Just Got Shot in the Back"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-cursor-marketplace-is-a-wild-west-and-we-just-got-shot-in-the-back">The Cursor Marketplace is a Wild West, And We Just Got Shot in the Back</a></b><br><sub>2026-10-31</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/llm?lock=65688" width="160" alt="Stop Talking to Your Computer, It’s Embarrassing"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-talking-to-your-computer-it-s-embarrassing">Stop Talking to Your Computer, It’s Embarrassing</a></b><br><sub>2026-10-30</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
