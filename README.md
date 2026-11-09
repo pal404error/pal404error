@@ -127,11 +127,11 @@ Last Active: 2026-10-21
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=54572" width="160" alt="We Do Not Need an LLM to Throw a Sheet of Paper"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-do-not-need-an-llm-to-throw-a-sheet-of-paper">We Do Not Need an LLM to Throw a Sheet of Paper</a></b><br><sub>2026-11-09</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=45741" width="160" alt="Claude Code Just Doxxed Developers, and We’re All Pretending It’s Fine"></td><td valign="top"><b><a href="https://pal404blog.github.io/claude-code-just-doxxed-developers-and-we-re-all-pretending-it-s-fine">Claude Code Just Doxxed Developers, and We’re All Pretending It’s Fine</a></b><br><sub>2026-11-08</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/cyber?lock=63347" width="160" alt="The Stainless Steel Coffin: Tesla Finally Pulls the Plug on the Cybertruck"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-stainless-steel-coffin-tesla-finally-pulls-the-plug-on-the-cybertruck">The Stainless Steel Coffin: Tesla Finally Pulls the Plug on the Cybertruck</a></b><br><sub>2026-11-07</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=97264" width="160" alt="Claude Code is Handing Out Your Email Like It’s Club Flyers"></td><td valign="top"><b><a href="https://pal404blog.github.io/claude-code-is-handing-out-your-email-like-it-s-club-flyers">Claude Code is Handing Out Your Email Like It’s Club Flyers</a></b><br><sub>2026-11-06</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=81272" width="160" alt="AI Is Finally Coming to Collect Our Four-Decade-Long Technical Debt"></td><td valign="top"><b><a href="https://pal404blog.github.io/ai-is-finally-coming-to-collect-our-four-decade-long-technical-debt">AI Is Finally Coming to Collect Our Four-Decade-Long Technical Debt</a></b><br><sub>2026-11-04</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=160" width="160" alt="We Blew Billions on Cloud Hyper-Scales Just to Fall Back in Love with Magnetic Tape"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-blew-billions-on-cloud-hyper-scales-just-to-fall-back-in-love-with-magnetic-tape">We Blew Billions on Cloud Hyper-Scales Just to Fall Back in Love with Magnetic Tape</a></b><br><sub>2026-11-03</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
