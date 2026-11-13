@@ -127,11 +127,11 @@ Last Active: 2026-10-21
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/rust?lock=65202" width="160" alt="Rust 1.100 Is Here, and the Cult of Safety Finally Ran Out of Excuses"></td><td valign="top"><b><a href="https://pal404blog.github.io/rust-1-100-is-here-and-the-cult-of-safety-finally-ran-out-of-excuses">Rust 1.100 Is Here, and the Cult of Safety Finally Ran Out of Excuses</a></b><br><sub>2026-11-13</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=56121" width="160" alt="Silicon Valley Wants to AI-ify Paper Airplanes, and Frankly, We Deserve the Meteor"></td><td valign="top"><b><a href="https://pal404blog.github.io/silicon-valley-wants-to-ai-ify-paper-airplanes-and-frankly-we-deserve-the-meteor">Silicon Valley Wants to AI-ify Paper Airplanes, and Frankly, We Deserve the Meteor</a></b><br><sub>2026-11-10</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=54572" width="160" alt="We Do Not Need an LLM to Throw a Sheet of Paper"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-do-not-need-an-llm-to-throw-a-sheet-of-paper">We Do Not Need an LLM to Throw a Sheet of Paper</a></b><br><sub>2026-11-09</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=45741" width="160" alt="Claude Code Just Doxxed Developers, and We’re All Pretending It’s Fine"></td><td valign="top"><b><a href="https://pal404blog.github.io/claude-code-just-doxxed-developers-and-we-re-all-pretending-it-s-fine">Claude Code Just Doxxed Developers, and We’re All Pretending It’s Fine</a></b><br><sub>2026-11-08</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/cyber?lock=63347" width="160" alt="The Stainless Steel Coffin: Tesla Finally Pulls the Plug on the Cybertruck"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-stainless-steel-coffin-tesla-finally-pulls-the-plug-on-the-cybertruck">The Stainless Steel Coffin: Tesla Finally Pulls the Plug on the Cybertruck</a></b><br><sub>2026-11-07</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=97264" width="160" alt="Claude Code is Handing Out Your Email Like It’s Club Flyers"></td><td valign="top"><b><a href="https://pal404blog.github.io/claude-code-is-handing-out-your-email-like-it-s-club-flyers">Claude Code is Handing Out Your Email Like It’s Club Flyers</a></b><br><sub>2026-11-06</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
