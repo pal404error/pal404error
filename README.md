@@ -127,11 +127,11 @@ Last Active: 2026-10-21
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/cyber?lock=737" width="160" alt="Amazon's Black Friday 'Deals' Were a Scam, and Everyone Pretended It Was Normal"></td><td valign="top"><b><a href="https://pal404blog.github.io/amazon-s-black-friday-deals-were-a-scam-and-everyone-pretended-it-was-normal">Amazon's Black Friday 'Deals' Were a Scam, and Everyone Pretended It Was Normal</a></b><br><sub>2026-11-16</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=9369" width="160" alt="\"Vibe Coding\" Just Leaked Your Passport"></td><td valign="top"><b><a href="https://pal404blog.github.io/vibe-coding-just-leaked-your-passport">\"Vibe Coding\" Just Leaked Your Passport</a></b><br><sub>2026-11-15</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=52313" width="160" alt="Nvidia's Infinite Money Glitch Is the Most Brilliant Scam in Tech History"></td><td valign="top"><b><a href="https://pal404blog.github.io/nvidia-s-infinite-money-glitch-is-the-most-brilliant-scam-in-tech-history">Nvidia's Infinite Money Glitch Is the Most Brilliant Scam in Tech History</a></b><br><sub>2026-11-14</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/rust?lock=65202" width="160" alt="Rust 1.100 Is Here, and the Cult of Safety Finally Ran Out of Excuses"></td><td valign="top"><b><a href="https://pal404blog.github.io/rust-1-100-is-here-and-the-cult-of-safety-finally-ran-out-of-excuses">Rust 1.100 Is Here, and the Cult of Safety Finally Ran Out of Excuses</a></b><br><sub>2026-11-13</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=56121" width="160" alt="Silicon Valley Wants to AI-ify Paper Airplanes, and Frankly, We Deserve the Meteor"></td><td valign="top"><b><a href="https://pal404blog.github.io/silicon-valley-wants-to-ai-ify-paper-airplanes-and-frankly-we-deserve-the-meteor">Silicon Valley Wants to AI-ify Paper Airplanes, and Frankly, We Deserve the Meteor</a></b><br><sub>2026-11-10</sub></td></tr>
-<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=54572" width="160" alt="We Do Not Need an LLM to Throw a Sheet of Paper"></td><td valign="top"><b><a href="https://pal404blog.github.io/we-do-not-need-an-llm-to-throw-a-sheet-of-paper">We Do Not Need an LLM to Throw a Sheet of Paper</a></b><br><sub>2026-11-09</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
