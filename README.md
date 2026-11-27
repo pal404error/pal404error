@@ -127,11 +127,11 @@ Last Active: 2026-11-20
 
 <!-- BLOGS_START -->
 <table>
+<tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=69648" width="160" alt="Stop Hoarding Linux ISOs: AI Saved the Homelab from Terminal Boredom"></td><td valign="top"><b><a href="https://pal404blog.github.io/stop-hoarding-linux-isos-ai-saved-the-homelab-from-terminal-boredom">Stop Hoarding Linux ISOs: AI Saved the Homelab from Terminal Boredom</a></b><br><sub>2026-11-27</sub></td></tr>
 <tr><td valign="top"></td><td valign="top"><b><a href="https://pal404blog.github.io/oh-the-irony-1password-just">Oh, the Irony: 1Password Just</a></b><br><sub>2026-11-26</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=34465" width="160" alt="Ternary Bonsai 2.5 27B Proves We’ve Been Burning the Grid for Nothing"></td><td valign="top"><b><a href="https://pal404blog.github.io/ternary-bonsai-2-5-27b-proves-we-ve-been-burning-the-grid-for-nothing">Ternary Bonsai 2.5 27B Proves We’ve Been Burning the Grid for Nothing</a></b><br><sub>2026-11-25</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=3320" width="160" alt="Silicon Valley Wanted to Disrupt Healthcare, But AI Just Accidentally Saved It"></td><td valign="top"><b><a href="https://pal404blog.github.io/silicon-valley-wanted-to-disrupt-healthcare-but-ai-just-accidentally-saved-it">Silicon Valley Wanted to Disrupt Healthcare, But AI Just Accidentally Saved It</a></b><br><sub>2026-11-22</sub></td></tr>
 <tr><td valign="top"><img src="https://loremflickr.com/1600/900/ai?lock=86284" width="160" alt="The Riemann Hypothesis Is Finally Dead, And AI Didn't Even Have To Lift A Finger"></td><td valign="top"><b><a href="https://pal404blog.github.io/the-riemann-hypothesis-is-finally-dead-and-ai-didn-t-even-have-to-lift-a-finger">The Riemann Hypothesis Is Finally Dead, And AI Didn't Even Have To Lift A Finger</a></b><br><sub>2026-11-21</sub></td></tr>
-<tr><td valign="top"></td><td valign="top"><b><a href="https://pal404blog.github.io/microsoft-just-dropped-seven-ai-models-and-silicon-valley-is-sweating">Microsoft Just Dropped Seven AI Models, and Silicon Valley is Sweating</a></b><br><sub>2026-11-18</sub></td></tr>
 </table>
 <!-- BLOGS_END -->
 
